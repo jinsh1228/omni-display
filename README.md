@@ -1,2 +1,65 @@
-# omni-display
-Full-surround cockpit display for Sable-based Create vehicles on Minecraft 1.21.1 NeoForge. Enclose your cockpit with displays, patch screens, and doors to see outside. Includes spherical flight HUD, auto inner/outer face detection, animations, transparency, wireless redstone, and Create Radar lock-on. Ideal for aircraft, mechs, and other vehicles.
+# Omni Display 1.0
+
+Omni Display（全周天显示器）为基于 Sable 的机械动力载具提供沉浸式全周天座舱。用显示器、贴片屏幕和座舱门围成封闭空间，开机后即可在座舱内观察载具外部，搭配球形飞行 HUD，打造飞行器、机甲或其他载具的驾驶舱。
+
+支持自动识别内外显示面、六边形屏幕与开关机动画、载具透明度与高光设置、多人共享配置和机械动力无线红石控制。安装 Create Radar 后，还可接入雷达网络、选择目标并显示锁定框。
+
+发布简介见 [MOD_DESCRIPTION.md](MOD_DESCRIPTION.md)。
+
+## 使用
+
+全部模组物品位于创造模式的「全周天显示器」独立分页，图标为全周天显示器方块。门、贴片和轻薄显示器采用独立物品模型，放置后的方块外观保持不变。
+
+- **全周天屏幕面板**：手持面板右键方块的任意一面，覆盖该面；可以对同一方块的多个面分别安装。它是附着数据，不是替换方块，也不会占相邻格或增加碰撞。把面板贴在朝向舱内的面上，与其他显示器、座舱门组成封闭座舱后，自动使用内侧屏幕材质。
+- 手持面板**潜行右键**：拆下所指面的面板。生存模式退还物品。也可以用**机械动力扳手右键**拆下所指面的贴片，不会旋转或拆除下方的原方块。
+- **空手右键贴片所在面**开关机，**空手潜行右键**打开座舱配置。未贴片的面保留原方块交互。接入雷达并启用鼠标锁定时，沿用屏幕选取目标操作。
+- **轻薄全周天显示器**：1/16 格厚，具有碰撞；占一个方块格，但模型靠格子边缘。点击支撑面的哪个方向，就放在新格中紧贴该面的边缘，支持上、下、东、西、南、北。拆掉支撑后仍保留。宽面应朝向舱内；内外显示面自动识别。
+- 轻薄显示器空手右键开关，空手潜行右键配置，与原全周天显示器相同。
+
+可用 `/give @s omni_display:screen_panel` 和 `/give @s omni_display:thin_display` 获取物品。
+
+## 合成
+
+| 产物 | 配方 | 数量 |
+| --- | --- | --- |
+| 全周天显示器 | 4 铁锭 + 2 玻璃 + 2 红石粉 + 1 机械动力精密构件，有序合成见下图 | 1 |
+| 全周天屏幕面板 | 1 显示器 + 1 玻璃板，无序合成 | 1 |
+| 全周天座舱门 | 2 显示器竖排 | 1 |
+| 轻薄全周天显示器 | 3 显示器横排 | 6 |
+
+显示器配方：
+
+```text
+铁锭    玻璃      铁锭
+红石粉  精密构件  红石粉
+铁锭    玻璃      铁锭
+```
+
+获得精密构件后解锁显示器配方；获得显示器后解锁三种衍生配方。
+
+## 保存和兼容
+
+面板数据按维度保存在世界的 `omni_display_panels` SavedData 中，支持多人同步、区块重新加载和 Sable 方块组装/拆解时的位置及朝向迁移。不会修改原方块状态、方块实体或其存档数据。原方块被破坏或替换时面板会掉落；原版活塞等未走 Sable 搬运接口的移动会拆下面板。
+
+面板采用整格 1×1 的平面显示区域；箱子、楼梯等异形模型上的贴合外观仍需游戏验证。保留现有按方块格检测封闭座舱的方法；薄板所在格的空余部分支持舱内相机判定，但不采用任意曲面或亚格级封闭空间扫描。
+
+Minecraft 1.21.1 / NeoForge 21.1.228+ / Sable 2.0.5 / Create 6.0.10；Create Radar 0.4.9.4 可选。客户端和服务端应同时使用 1.0，替换旧版，不要同时加载两个 Omni Display jar。
+
+## 验证
+
+已完成全部 Java 源码编译，目标 Java 21；通过 12 组自动回归测试，以及 384 个薄板状态、12 个附着面模型、资源 JSON、字节码和 jar 完整性检查。既有高速位姿测试覆盖 720 组平移/旋转。
+
+**尚未启动 Minecraft 进行游戏实测。** 自动检查不能证明多人同步、存档迁移和 Sable/Flywheel 混入在完整整合包中均无问题。建议实测六向放置、混合座舱、覆盖功能方块、重进存档、载具组装和拆解。
+
+## 构建
+
+标准构建：Java 21，按 `libs/README.md` 放入依赖后运行 `gradlew build`。
+
+若已有对应 NeoForge 游戏库，可离线编译：
+
+```text
+python tools/build_local.py <.minecraft目录> <JDK21目录>
+python tools/run_checks.py <JDK21目录>
+```
+
+离线方式使用 NeoForge 21.1.228 的 client/universal 和 Minecraft 1.21.1 SRG 命名运行库作为编译依赖，产物在 `build/libs/`。第三方依赖不包含在源码包中。

@@ -1,0 +1,58 @@
+plugins {
+ id 'java-library'
+ id 'net.neoforged.moddev' version '2.0.147'
+}
+group='dev.omnidisplay'
+version='1.0'
+base { archivesName='omni-display' }
+java { toolchain.languageVersion=JavaLanguageVersion.of(21); withSourcesJar() }
+neoForge {
+ version='21.1.228'
+ mods { omni_display { sourceSet sourceSets.main } }
+}
+repositories { mavenCentral() }
+def sableJar=file('libs/sable-neoforge-1.21.1-2.0.5.jar')
+def nestedDir=layout.buildDirectory.dir('generated/sable-dependencies')
+def unpack=tasks.register('extractSableDependencies') {
+ inputs.file(sableJar)
+ outputs.dir(nestedDir)
+ doLast {
+  new java.util.zip.ZipFile(sableJar).withCloseable { archive ->
+   archive.entries().each { entry ->
+    if(entry.name.startsWith('META-INF/jarjar/') && entry.name.endsWith('.jar') && (entry.name.contains('companion') || entry.name.contains('veil-'))) {
+     def output=new File(nestedDir.get().asFile,new File(entry.name).name)
+     output.parentFile.mkdirs()
+     archive.getInputStream(entry).withCloseable { input -> output.withOutputStream { stream -> input.transferTo(stream) } }
+    }
+   }
+  }
+ }
+}
+dependencies {
+ compileOnly files(sableJar)
+ compileOnly files(fileTree(nestedDir) { include '*.jar' }).builtBy(unpack)
+}
+tasks.withType(JavaCompile).configureEach { options.encoding='UTF-8' }
+
+def createJar=file('libs/create-1.21.1-6.0.10.jar')
+def createNested=layout.buildDirectory.dir('generated/create-dependencies')
+def unpackCreate=tasks.register('extractCreateDependencies') {
+ inputs.file(createJar); outputs.dir(createNested)
+ doLast {
+  new java.util.zip.ZipFile(createJar).withCloseable { archive ->
+   archive.entries().each { entry ->
+    if(entry.name.startsWith('META-INF/jarjar/') && entry.name.endsWith('.jar')) {
+     def output=new File(createNested.get().asFile,new File(entry.name).name)
+     output.parentFile.mkdirs()
+     archive.getInputStream(entry).withCloseable { input -> output.withOutputStream { stream -> input.transferTo(stream) } }
+    }
+   }
+  }
+ }
+}
+dependencies {
+ compileOnly files(createJar)
+ compileOnly files(fileTree(createNested) { include '*.jar' }).builtBy(unpackCreate)
+}
+
+dependencies { compileOnly files('libs/create_radar-0.4.9.4-1.21.1.jar') }
