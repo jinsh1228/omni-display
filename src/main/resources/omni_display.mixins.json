@@ -1,0 +1,40 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.omnidisplay.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "DisplayDispatcherMixin",
+    "BlockEntityVisibilityMixin",
+    "EntityVisibilityMixin",
+    "VisualBlockVisibilityMixin",
+    "VisualEntityVisibilityMixin",
+    "PartitionLevelMixin",
+    "PartitionFlywheelMixin",
+    "PhotonPipelineMixin",
+    "PhotonFrameMixin",
+    "PhotonPreviousMatrixMixin",
+    "ParticleSourceMixin",
+    "ParticleAlphaAccessor",
+    "ParticleVisibilityMixin",
+    "AsyncParticleGpuMixin",
+    "PhotonTemporalSourceMixin",
+    "PhotonTemporalProgramMixin",
+    "NixieTubeRendererMixin",
+    "HologramModelDataMixin",
+    "PerformanceFrameMixin",
+    "PerformanceRenderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "DoorAnimationAccessor",
+    "PanelAssemblyMixin",
+    "PanelBlockChangeMixin",
+    "PanelPlotMixin",
+    "MovingScreenInteractionMixin",
+    "MovingPanelTransferMixin",
+    "ContraptionScreenAccessor"
+  ]
+}

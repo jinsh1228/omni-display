@@ -1,0 +1,1156 @@
+{
+  "variants": {
+    "attached_face=down,screen_faces=0": {
+      "model": "omni_display:block/thin_0_0"
+    },
+    "attached_face=down,screen_faces=1": {
+      "model": "omni_display:block/thin_0_1"
+    },
+    "attached_face=down,screen_faces=2": {
+      "model": "omni_display:block/thin_0_2"
+    },
+    "attached_face=down,screen_faces=3": {
+      "model": "omni_display:block/thin_0_3"
+    },
+    "attached_face=down,screen_faces=4": {
+      "model": "omni_display:block/thin_0_4"
+    },
+    "attached_face=down,screen_faces=5": {
+      "model": "omni_display:block/thin_0_5"
+    },
+    "attached_face=down,screen_faces=6": {
+      "model": "omni_display:block/thin_0_6"
+    },
+    "attached_face=down,screen_faces=7": {
+      "model": "omni_display:block/thin_0_7"
+    },
+    "attached_face=down,screen_faces=8": {
+      "model": "omni_display:block/thin_0_8"
+    },
+    "attached_face=down,screen_faces=9": {
+      "model": "omni_display:block/thin_0_9"
+    },
+    "attached_face=down,screen_faces=10": {
+      "model": "omni_display:block/thin_0_10"
+    },
+    "attached_face=down,screen_faces=11": {
+      "model": "omni_display:block/thin_0_11"
+    },
+    "attached_face=down,screen_faces=12": {
+      "model": "omni_display:block/thin_0_12"
+    },
+    "attached_face=down,screen_faces=13": {
+      "model": "omni_display:block/thin_0_13"
+    },
+    "attached_face=down,screen_faces=14": {
+      "model": "omni_display:block/thin_0_14"
+    },
+    "attached_face=down,screen_faces=15": {
+      "model": "omni_display:block/thin_0_15"
+    },
+    "attached_face=down,screen_faces=16": {
+      "model": "omni_display:block/thin_0_16"
+    },
+    "attached_face=down,screen_faces=17": {
+      "model": "omni_display:block/thin_0_17"
+    },
+    "attached_face=down,screen_faces=18": {
+      "model": "omni_display:block/thin_0_18"
+    },
+    "attached_face=down,screen_faces=19": {
+      "model": "omni_display:block/thin_0_19"
+    },
+    "attached_face=down,screen_faces=20": {
+      "model": "omni_display:block/thin_0_20"
+    },
+    "attached_face=down,screen_faces=21": {
+      "model": "omni_display:block/thin_0_21"
+    },
+    "attached_face=down,screen_faces=22": {
+      "model": "omni_display:block/thin_0_22"
+    },
+    "attached_face=down,screen_faces=23": {
+      "model": "omni_display:block/thin_0_23"
+    },
+    "attached_face=down,screen_faces=24": {
+      "model": "omni_display:block/thin_0_24"
+    },
+    "attached_face=down,screen_faces=25": {
+      "model": "omni_display:block/thin_0_25"
+    },
+    "attached_face=down,screen_faces=26": {
+      "model": "omni_display:block/thin_0_26"
+    },
+    "attached_face=down,screen_faces=27": {
+      "model": "omni_display:block/thin_0_27"
+    },
+    "attached_face=down,screen_faces=28": {
+      "model": "omni_display:block/thin_0_28"
+    },
+    "attached_face=down,screen_faces=29": {
+      "model": "omni_display:block/thin_0_29"
+    },
+    "attached_face=down,screen_faces=30": {
+      "model": "omni_display:block/thin_0_30"
+    },
+    "attached_face=down,screen_faces=31": {
+      "model": "omni_display:block/thin_0_31"
+    },
+    "attached_face=down,screen_faces=32": {
+      "model": "omni_display:block/thin_0_32"
+    },
+    "attached_face=down,screen_faces=33": {
+      "model": "omni_display:block/thin_0_33"
+    },
+    "attached_face=down,screen_faces=34": {
+      "model": "omni_display:block/thin_0_34"
+    },
+    "attached_face=down,screen_faces=35": {
+      "model": "omni_display:block/thin_0_35"
+    },
+    "attached_face=down,screen_faces=36": {
+      "model": "omni_display:block/thin_0_36"
+    },
+    "attached_face=down,screen_faces=37": {
+      "model": "omni_display:block/thin_0_37"
+    },
+    "attached_face=down,screen_faces=38": {
+      "model": "omni_display:block/thin_0_38"
+    },
+    "attached_face=down,screen_faces=39": {
+      "model": "omni_display:block/thin_0_39"
+    },
+    "attached_face=down,screen_faces=40": {
+      "model": "omni_display:block/thin_0_40"
+    },
+    "attached_face=down,screen_faces=41": {
+      "model": "omni_display:block/thin_0_41"
+    },
+    "attached_face=down,screen_faces=42": {
+      "model": "omni_display:block/thin_0_42"
+    },
+    "attached_face=down,screen_faces=43": {
+      "model": "omni_display:block/thin_0_43"
+    },
+    "attached_face=down,screen_faces=44": {
+      "model": "omni_display:block/thin_0_44"
+    },
+    "attached_face=down,screen_faces=45": {
+      "model": "omni_display:block/thin_0_45"
+    },
+    "attached_face=down,screen_faces=46": {
+      "model": "omni_display:block/thin_0_46"
+    },
+    "attached_face=down,screen_faces=47": {
+      "model": "omni_display:block/thin_0_47"
+    },
+    "attached_face=down,screen_faces=48": {
+      "model": "omni_display:block/thin_0_48"
+    },
+    "attached_face=down,screen_faces=49": {
+      "model": "omni_display:block/thin_0_49"
+    },
+    "attached_face=down,screen_faces=50": {
+      "model": "omni_display:block/thin_0_50"
+    },
+    "attached_face=down,screen_faces=51": {
+      "model": "omni_display:block/thin_0_51"
+    },
+    "attached_face=down,screen_faces=52": {
+      "model": "omni_display:block/thin_0_52"
+    },
+    "attached_face=down,screen_faces=53": {
+      "model": "omni_display:block/thin_0_53"
+    },
+    "attached_face=down,screen_faces=54": {
+      "model": "omni_display:block/thin_0_54"
+    },
+    "attached_face=down,screen_faces=55": {
+      "model": "omni_display:block/thin_0_55"
+    },
+    "attached_face=down,screen_faces=56": {
+      "model": "omni_display:block/thin_0_56"
+    },
+    "attached_face=down,screen_faces=57": {
+      "model": "omni_display:block/thin_0_57"
+    },
+    "attached_face=down,screen_faces=58": {
+      "model": "omni_display:block/thin_0_58"
+    },
+    "attached_face=down,screen_faces=59": {
+      "model": "omni_display:block/thin_0_59"
+    },
+    "attached_face=down,screen_faces=60": {
+      "model": "omni_display:block/thin_0_60"
+    },
+    "attached_face=down,screen_faces=61": {
+      "model": "omni_display:block/thin_0_61"
+    },
+    "attached_face=down,screen_faces=62": {
+      "model": "omni_display:block/thin_0_62"
+    },
+    "attached_face=down,screen_faces=63": {
+      "model": "omni_display:block/thin_0_63"
+    },
+    "attached_face=up,screen_faces=0": {
+      "model": "omni_display:block/thin_1_0"
+    },
+    "attached_face=up,screen_faces=1": {
+      "model": "omni_display:block/thin_1_1"
+    },
+    "attached_face=up,screen_faces=2": {
+      "model": "omni_display:block/thin_1_2"
+    },
+    "attached_face=up,screen_faces=3": {
+      "model": "omni_display:block/thin_1_3"
+    },
+    "attached_face=up,screen_faces=4": {
+      "model": "omni_display:block/thin_1_4"
+    },
+    "attached_face=up,screen_faces=5": {
+      "model": "omni_display:block/thin_1_5"
+    },
+    "attached_face=up,screen_faces=6": {
+      "model": "omni_display:block/thin_1_6"
+    },
+    "attached_face=up,screen_faces=7": {
+      "model": "omni_display:block/thin_1_7"
+    },
+    "attached_face=up,screen_faces=8": {
+      "model": "omni_display:block/thin_1_8"
+    },
+    "attached_face=up,screen_faces=9": {
+      "model": "omni_display:block/thin_1_9"
+    },
+    "attached_face=up,screen_faces=10": {
+      "model": "omni_display:block/thin_1_10"
+    },
+    "attached_face=up,screen_faces=11": {
+      "model": "omni_display:block/thin_1_11"
+    },
+    "attached_face=up,screen_faces=12": {
+      "model": "omni_display:block/thin_1_12"
+    },
+    "attached_face=up,screen_faces=13": {
+      "model": "omni_display:block/thin_1_13"
+    },
+    "attached_face=up,screen_faces=14": {
+      "model": "omni_display:block/thin_1_14"
+    },
+    "attached_face=up,screen_faces=15": {
+      "model": "omni_display:block/thin_1_15"
+    },
+    "attached_face=up,screen_faces=16": {
+      "model": "omni_display:block/thin_1_16"
+    },
+    "attached_face=up,screen_faces=17": {
+      "model": "omni_display:block/thin_1_17"
+    },
+    "attached_face=up,screen_faces=18": {
+      "model": "omni_display:block/thin_1_18"
+    },
+    "attached_face=up,screen_faces=19": {
+      "model": "omni_display:block/thin_1_19"
+    },
+    "attached_face=up,screen_faces=20": {
+      "model": "omni_display:block/thin_1_20"
+    },
+    "attached_face=up,screen_faces=21": {
+      "model": "omni_display:block/thin_1_21"
+    },
+    "attached_face=up,screen_faces=22": {
+      "model": "omni_display:block/thin_1_22"
+    },
+    "attached_face=up,screen_faces=23": {
+      "model": "omni_display:block/thin_1_23"
+    },
+    "attached_face=up,screen_faces=24": {
+      "model": "omni_display:block/thin_1_24"
+    },
+    "attached_face=up,screen_faces=25": {
+      "model": "omni_display:block/thin_1_25"
+    },
+    "attached_face=up,screen_faces=26": {
+      "model": "omni_display:block/thin_1_26"
+    },
+    "attached_face=up,screen_faces=27": {
+      "model": "omni_display:block/thin_1_27"
+    },
+    "attached_face=up,screen_faces=28": {
+      "model": "omni_display:block/thin_1_28"
+    },
+    "attached_face=up,screen_faces=29": {
+      "model": "omni_display:block/thin_1_29"
+    },
+    "attached_face=up,screen_faces=30": {
+      "model": "omni_display:block/thin_1_30"
+    },
+    "attached_face=up,screen_faces=31": {
+      "model": "omni_display:block/thin_1_31"
+    },
+    "attached_face=up,screen_faces=32": {
+      "model": "omni_display:block/thin_1_32"
+    },
+    "attached_face=up,screen_faces=33": {
+      "model": "omni_display:block/thin_1_33"
+    },
+    "attached_face=up,screen_faces=34": {
+      "model": "omni_display:block/thin_1_34"
+    },
+    "attached_face=up,screen_faces=35": {
+      "model": "omni_display:block/thin_1_35"
+    },
+    "attached_face=up,screen_faces=36": {
+      "model": "omni_display:block/thin_1_36"
+    },
+    "attached_face=up,screen_faces=37": {
+      "model": "omni_display:block/thin_1_37"
+    },
+    "attached_face=up,screen_faces=38": {
+      "model": "omni_display:block/thin_1_38"
+    },
+    "attached_face=up,screen_faces=39": {
+      "model": "omni_display:block/thin_1_39"
+    },
+    "attached_face=up,screen_faces=40": {
+      "model": "omni_display:block/thin_1_40"
+    },
+    "attached_face=up,screen_faces=41": {
+      "model": "omni_display:block/thin_1_41"
+    },
+    "attached_face=up,screen_faces=42": {
+      "model": "omni_display:block/thin_1_42"
+    },
+    "attached_face=up,screen_faces=43": {
+      "model": "omni_display:block/thin_1_43"
+    },
+    "attached_face=up,screen_faces=44": {
+      "model": "omni_display:block/thin_1_44"
+    },
+    "attached_face=up,screen_faces=45": {
+      "model": "omni_display:block/thin_1_45"
+    },
+    "attached_face=up,screen_faces=46": {
+      "model": "omni_display:block/thin_1_46"
+    },
+    "attached_face=up,screen_faces=47": {
+      "model": "omni_display:block/thin_1_47"
+    },
+    "attached_face=up,screen_faces=48": {
+      "model": "omni_display:block/thin_1_48"
+    },
+    "attached_face=up,screen_faces=49": {
+      "model": "omni_display:block/thin_1_49"
+    },
+    "attached_face=up,screen_faces=50": {
+      "model": "omni_display:block/thin_1_50"
+    },
+    "attached_face=up,screen_faces=51": {
+      "model": "omni_display:block/thin_1_51"
+    },
+    "attached_face=up,screen_faces=52": {
+      "model": "omni_display:block/thin_1_52"
+    },
+    "attached_face=up,screen_faces=53": {
+      "model": "omni_display:block/thin_1_53"
+    },
+    "attached_face=up,screen_faces=54": {
+      "model": "omni_display:block/thin_1_54"
+    },
+    "attached_face=up,screen_faces=55": {
+      "model": "omni_display:block/thin_1_55"
+    },
+    "attached_face=up,screen_faces=56": {
+      "model": "omni_display:block/thin_1_56"
+    },
+    "attached_face=up,screen_faces=57": {
+      "model": "omni_display:block/thin_1_57"
+    },
+    "attached_face=up,screen_faces=58": {
+      "model": "omni_display:block/thin_1_58"
+    },
+    "attached_face=up,screen_faces=59": {
+      "model": "omni_display:block/thin_1_59"
+    },
+    "attached_face=up,screen_faces=60": {
+      "model": "omni_display:block/thin_1_60"
+    },
+    "attached_face=up,screen_faces=61": {
+      "model": "omni_display:block/thin_1_61"
+    },
+    "attached_face=up,screen_faces=62": {
+      "model": "omni_display:block/thin_1_62"
+    },
+    "attached_face=up,screen_faces=63": {
+      "model": "omni_display:block/thin_1_63"
+    },
+    "attached_face=north,screen_faces=0": {
+      "model": "omni_display:block/thin_2_0"
+    },
+    "attached_face=north,screen_faces=1": {
+      "model": "omni_display:block/thin_2_1"
+    },
+    "attached_face=north,screen_faces=2": {
+      "model": "omni_display:block/thin_2_2"
+    },
+    "attached_face=north,screen_faces=3": {
+      "model": "omni_display:block/thin_2_3"
+    },
+    "attached_face=north,screen_faces=4": {
+      "model": "omni_display:block/thin_2_4"
+    },
+    "attached_face=north,screen_faces=5": {
+      "model": "omni_display:block/thin_2_5"
+    },
+    "attached_face=north,screen_faces=6": {
+      "model": "omni_display:block/thin_2_6"
+    },
+    "attached_face=north,screen_faces=7": {
+      "model": "omni_display:block/thin_2_7"
+    },
+    "attached_face=north,screen_faces=8": {
+      "model": "omni_display:block/thin_2_8"
+    },
+    "attached_face=north,screen_faces=9": {
+      "model": "omni_display:block/thin_2_9"
+    },
+    "attached_face=north,screen_faces=10": {
+      "model": "omni_display:block/thin_2_10"
+    },
+    "attached_face=north,screen_faces=11": {
+      "model": "omni_display:block/thin_2_11"
+    },
+    "attached_face=north,screen_faces=12": {
+      "model": "omni_display:block/thin_2_12"
+    },
+    "attached_face=north,screen_faces=13": {
+      "model": "omni_display:block/thin_2_13"
+    },
+    "attached_face=north,screen_faces=14": {
+      "model": "omni_display:block/thin_2_14"
+    },
+    "attached_face=north,screen_faces=15": {
+      "model": "omni_display:block/thin_2_15"
+    },
+    "attached_face=north,screen_faces=16": {
+      "model": "omni_display:block/thin_2_16"
+    },
+    "attached_face=north,screen_faces=17": {
+      "model": "omni_display:block/thin_2_17"
+    },
+    "attached_face=north,screen_faces=18": {
+      "model": "omni_display:block/thin_2_18"
+    },
+    "attached_face=north,screen_faces=19": {
+      "model": "omni_display:block/thin_2_19"
+    },
+    "attached_face=north,screen_faces=20": {
+      "model": "omni_display:block/thin_2_20"
+    },
+    "attached_face=north,screen_faces=21": {
+      "model": "omni_display:block/thin_2_21"
+    },
+    "attached_face=north,screen_faces=22": {
+      "model": "omni_display:block/thin_2_22"
+    },
+    "attached_face=north,screen_faces=23": {
+      "model": "omni_display:block/thin_2_23"
+    },
+    "attached_face=north,screen_faces=24": {
+      "model": "omni_display:block/thin_2_24"
+    },
+    "attached_face=north,screen_faces=25": {
+      "model": "omni_display:block/thin_2_25"
+    },
+    "attached_face=north,screen_faces=26": {
+      "model": "omni_display:block/thin_2_26"
+    },
+    "attached_face=north,screen_faces=27": {
+      "model": "omni_display:block/thin_2_27"
+    },
+    "attached_face=north,screen_faces=28": {
+      "model": "omni_display:block/thin_2_28"
+    },
+    "attached_face=north,screen_faces=29": {
+      "model": "omni_display:block/thin_2_29"
+    },
+    "attached_face=north,screen_faces=30": {
+      "model": "omni_display:block/thin_2_30"
+    },
+    "attached_face=north,screen_faces=31": {
+      "model": "omni_display:block/thin_2_31"
+    },
+    "attached_face=north,screen_faces=32": {
+      "model": "omni_display:block/thin_2_32"
+    },
+    "attached_face=north,screen_faces=33": {
+      "model": "omni_display:block/thin_2_33"
+    },
+    "attached_face=north,screen_faces=34": {
+      "model": "omni_display:block/thin_2_34"
+    },
+    "attached_face=north,screen_faces=35": {
+      "model": "omni_display:block/thin_2_35"
+    },
+    "attached_face=north,screen_faces=36": {
+      "model": "omni_display:block/thin_2_36"
+    },
+    "attached_face=north,screen_faces=37": {
+      "model": "omni_display:block/thin_2_37"
+    },
+    "attached_face=north,screen_faces=38": {
+      "model": "omni_display:block/thin_2_38"
+    },
+    "attached_face=north,screen_faces=39": {
+      "model": "omni_display:block/thin_2_39"
+    },
+    "attached_face=north,screen_faces=40": {
+      "model": "omni_display:block/thin_2_40"
+    },
+    "attached_face=north,screen_faces=41": {
+      "model": "omni_display:block/thin_2_41"
+    },
+    "attached_face=north,screen_faces=42": {
+      "model": "omni_display:block/thin_2_42"
+    },
+    "attached_face=north,screen_faces=43": {
+      "model": "omni_display:block/thin_2_43"
+    },
+    "attached_face=north,screen_faces=44": {
+      "model": "omni_display:block/thin_2_44"
+    },
+    "attached_face=north,screen_faces=45": {
+      "model": "omni_display:block/thin_2_45"
+    },
+    "attached_face=north,screen_faces=46": {
+      "model": "omni_display:block/thin_2_46"
+    },
+    "attached_face=north,screen_faces=47": {
+      "model": "omni_display:block/thin_2_47"
+    },
+    "attached_face=north,screen_faces=48": {
+      "model": "omni_display:block/thin_2_48"
+    },
+    "attached_face=north,screen_faces=49": {
+      "model": "omni_display:block/thin_2_49"
+    },
+    "attached_face=north,screen_faces=50": {
+      "model": "omni_display:block/thin_2_50"
+    },
+    "attached_face=north,screen_faces=51": {
+      "model": "omni_display:block/thin_2_51"
+    },
+    "attached_face=north,screen_faces=52": {
+      "model": "omni_display:block/thin_2_52"
+    },
+    "attached_face=north,screen_faces=53": {
+      "model": "omni_display:block/thin_2_53"
+    },
+    "attached_face=north,screen_faces=54": {
+      "model": "omni_display:block/thin_2_54"
+    },
+    "attached_face=north,screen_faces=55": {
+      "model": "omni_display:block/thin_2_55"
+    },
+    "attached_face=north,screen_faces=56": {
+      "model": "omni_display:block/thin_2_56"
+    },
+    "attached_face=north,screen_faces=57": {
+      "model": "omni_display:block/thin_2_57"
+    },
+    "attached_face=north,screen_faces=58": {
+      "model": "omni_display:block/thin_2_58"
+    },
+    "attached_face=north,screen_faces=59": {
+      "model": "omni_display:block/thin_2_59"
+    },
+    "attached_face=north,screen_faces=60": {
+      "model": "omni_display:block/thin_2_60"
+    },
+    "attached_face=north,screen_faces=61": {
+      "model": "omni_display:block/thin_2_61"
+    },
+    "attached_face=north,screen_faces=62": {
+      "model": "omni_display:block/thin_2_62"
+    },
+    "attached_face=north,screen_faces=63": {
+      "model": "omni_display:block/thin_2_63"
+    },
+    "attached_face=south,screen_faces=0": {
+      "model": "omni_display:block/thin_3_0"
+    },
+    "attached_face=south,screen_faces=1": {
+      "model": "omni_display:block/thin_3_1"
+    },
+    "attached_face=south,screen_faces=2": {
+      "model": "omni_display:block/thin_3_2"
+    },
+    "attached_face=south,screen_faces=3": {
+      "model": "omni_display:block/thin_3_3"
+    },
+    "attached_face=south,screen_faces=4": {
+      "model": "omni_display:block/thin_3_4"
+    },
+    "attached_face=south,screen_faces=5": {
+      "model": "omni_display:block/thin_3_5"
+    },
+    "attached_face=south,screen_faces=6": {
+      "model": "omni_display:block/thin_3_6"
+    },
+    "attached_face=south,screen_faces=7": {
+      "model": "omni_display:block/thin_3_7"
+    },
+    "attached_face=south,screen_faces=8": {
+      "model": "omni_display:block/thin_3_8"
+    },
+    "attached_face=south,screen_faces=9": {
+      "model": "omni_display:block/thin_3_9"
+    },
+    "attached_face=south,screen_faces=10": {
+      "model": "omni_display:block/thin_3_10"
+    },
+    "attached_face=south,screen_faces=11": {
+      "model": "omni_display:block/thin_3_11"
+    },
+    "attached_face=south,screen_faces=12": {
+      "model": "omni_display:block/thin_3_12"
+    },
+    "attached_face=south,screen_faces=13": {
+      "model": "omni_display:block/thin_3_13"
+    },
+    "attached_face=south,screen_faces=14": {
+      "model": "omni_display:block/thin_3_14"
+    },
+    "attached_face=south,screen_faces=15": {
+      "model": "omni_display:block/thin_3_15"
+    },
+    "attached_face=south,screen_faces=16": {
+      "model": "omni_display:block/thin_3_16"
+    },
+    "attached_face=south,screen_faces=17": {
+      "model": "omni_display:block/thin_3_17"
+    },
+    "attached_face=south,screen_faces=18": {
+      "model": "omni_display:block/thin_3_18"
+    },
+    "attached_face=south,screen_faces=19": {
+      "model": "omni_display:block/thin_3_19"
+    },
+    "attached_face=south,screen_faces=20": {
+      "model": "omni_display:block/thin_3_20"
+    },
+    "attached_face=south,screen_faces=21": {
+      "model": "omni_display:block/thin_3_21"
+    },
+    "attached_face=south,screen_faces=22": {
+      "model": "omni_display:block/thin_3_22"
+    },
+    "attached_face=south,screen_faces=23": {
+      "model": "omni_display:block/thin_3_23"
+    },
+    "attached_face=south,screen_faces=24": {
+      "model": "omni_display:block/thin_3_24"
+    },
+    "attached_face=south,screen_faces=25": {
+      "model": "omni_display:block/thin_3_25"
+    },
+    "attached_face=south,screen_faces=26": {
+      "model": "omni_display:block/thin_3_26"
+    },
+    "attached_face=south,screen_faces=27": {
+      "model": "omni_display:block/thin_3_27"
+    },
+    "attached_face=south,screen_faces=28": {
+      "model": "omni_display:block/thin_3_28"
+    },
+    "attached_face=south,screen_faces=29": {
+      "model": "omni_display:block/thin_3_29"
+    },
+    "attached_face=south,screen_faces=30": {
+      "model": "omni_display:block/thin_3_30"
+    },
+    "attached_face=south,screen_faces=31": {
+      "model": "omni_display:block/thin_3_31"
+    },
+    "attached_face=south,screen_faces=32": {
+      "model": "omni_display:block/thin_3_32"
+    },
+    "attached_face=south,screen_faces=33": {
+      "model": "omni_display:block/thin_3_33"
+    },
+    "attached_face=south,screen_faces=34": {
+      "model": "omni_display:block/thin_3_34"
+    },
+    "attached_face=south,screen_faces=35": {
+      "model": "omni_display:block/thin_3_35"
+    },
+    "attached_face=south,screen_faces=36": {
+      "model": "omni_display:block/thin_3_36"
+    },
+    "attached_face=south,screen_faces=37": {
+      "model": "omni_display:block/thin_3_37"
+    },
+    "attached_face=south,screen_faces=38": {
+      "model": "omni_display:block/thin_3_38"
+    },
+    "attached_face=south,screen_faces=39": {
+      "model": "omni_display:block/thin_3_39"
+    },
+    "attached_face=south,screen_faces=40": {
+      "model": "omni_display:block/thin_3_40"
+    },
+    "attached_face=south,screen_faces=41": {
+      "model": "omni_display:block/thin_3_41"
+    },
+    "attached_face=south,screen_faces=42": {
+      "model": "omni_display:block/thin_3_42"
+    },
+    "attached_face=south,screen_faces=43": {
+      "model": "omni_display:block/thin_3_43"
+    },
+    "attached_face=south,screen_faces=44": {
+      "model": "omni_display:block/thin_3_44"
+    },
+    "attached_face=south,screen_faces=45": {
+      "model": "omni_display:block/thin_3_45"
+    },
+    "attached_face=south,screen_faces=46": {
+      "model": "omni_display:block/thin_3_46"
+    },
+    "attached_face=south,screen_faces=47": {
+      "model": "omni_display:block/thin_3_47"
+    },
+    "attached_face=south,screen_faces=48": {
+      "model": "omni_display:block/thin_3_48"
+    },
+    "attached_face=south,screen_faces=49": {
+      "model": "omni_display:block/thin_3_49"
+    },
+    "attached_face=south,screen_faces=50": {
+      "model": "omni_display:block/thin_3_50"
+    },
+    "attached_face=south,screen_faces=51": {
+      "model": "omni_display:block/thin_3_51"
+    },
+    "attached_face=south,screen_faces=52": {
+      "model": "omni_display:block/thin_3_52"
+    },
+    "attached_face=south,screen_faces=53": {
+      "model": "omni_display:block/thin_3_53"
+    },
+    "attached_face=south,screen_faces=54": {
+      "model": "omni_display:block/thin_3_54"
+    },
+    "attached_face=south,screen_faces=55": {
+      "model": "omni_display:block/thin_3_55"
+    },
+    "attached_face=south,screen_faces=56": {
+      "model": "omni_display:block/thin_3_56"
+    },
+    "attached_face=south,screen_faces=57": {
+      "model": "omni_display:block/thin_3_57"
+    },
+    "attached_face=south,screen_faces=58": {
+      "model": "omni_display:block/thin_3_58"
+    },
+    "attached_face=south,screen_faces=59": {
+      "model": "omni_display:block/thin_3_59"
+    },
+    "attached_face=south,screen_faces=60": {
+      "model": "omni_display:block/thin_3_60"
+    },
+    "attached_face=south,screen_faces=61": {
+      "model": "omni_display:block/thin_3_61"
+    },
+    "attached_face=south,screen_faces=62": {
+      "model": "omni_display:block/thin_3_62"
+    },
+    "attached_face=south,screen_faces=63": {
+      "model": "omni_display:block/thin_3_63"
+    },
+    "attached_face=west,screen_faces=0": {
+      "model": "omni_display:block/thin_4_0"
+    },
+    "attached_face=west,screen_faces=1": {
+      "model": "omni_display:block/thin_4_1"
+    },
+    "attached_face=west,screen_faces=2": {
+      "model": "omni_display:block/thin_4_2"
+    },
+    "attached_face=west,screen_faces=3": {
+      "model": "omni_display:block/thin_4_3"
+    },
+    "attached_face=west,screen_faces=4": {
+      "model": "omni_display:block/thin_4_4"
+    },
+    "attached_face=west,screen_faces=5": {
+      "model": "omni_display:block/thin_4_5"
+    },
+    "attached_face=west,screen_faces=6": {
+      "model": "omni_display:block/thin_4_6"
+    },
+    "attached_face=west,screen_faces=7": {
+      "model": "omni_display:block/thin_4_7"
+    },
+    "attached_face=west,screen_faces=8": {
+      "model": "omni_display:block/thin_4_8"
+    },
+    "attached_face=west,screen_faces=9": {
+      "model": "omni_display:block/thin_4_9"
+    },
+    "attached_face=west,screen_faces=10": {
+      "model": "omni_display:block/thin_4_10"
+    },
+    "attached_face=west,screen_faces=11": {
+      "model": "omni_display:block/thin_4_11"
+    },
+    "attached_face=west,screen_faces=12": {
+      "model": "omni_display:block/thin_4_12"
+    },
+    "attached_face=west,screen_faces=13": {
+      "model": "omni_display:block/thin_4_13"
+    },
+    "attached_face=west,screen_faces=14": {
+      "model": "omni_display:block/thin_4_14"
+    },
+    "attached_face=west,screen_faces=15": {
+      "model": "omni_display:block/thin_4_15"
+    },
+    "attached_face=west,screen_faces=16": {
+      "model": "omni_display:block/thin_4_16"
+    },
+    "attached_face=west,screen_faces=17": {
+      "model": "omni_display:block/thin_4_17"
+    },
+    "attached_face=west,screen_faces=18": {
+      "model": "omni_display:block/thin_4_18"
+    },
+    "attached_face=west,screen_faces=19": {
+      "model": "omni_display:block/thin_4_19"
+    },
+    "attached_face=west,screen_faces=20": {
+      "model": "omni_display:block/thin_4_20"
+    },
+    "attached_face=west,screen_faces=21": {
+      "model": "omni_display:block/thin_4_21"
+    },
+    "attached_face=west,screen_faces=22": {
+      "model": "omni_display:block/thin_4_22"
+    },
+    "attached_face=west,screen_faces=23": {
+      "model": "omni_display:block/thin_4_23"
+    },
+    "attached_face=west,screen_faces=24": {
+      "model": "omni_display:block/thin_4_24"
+    },
+    "attached_face=west,screen_faces=25": {
+      "model": "omni_display:block/thin_4_25"
+    },
+    "attached_face=west,screen_faces=26": {
+      "model": "omni_display:block/thin_4_26"
+    },
+    "attached_face=west,screen_faces=27": {
+      "model": "omni_display:block/thin_4_27"
+    },
+    "attached_face=west,screen_faces=28": {
+      "model": "omni_display:block/thin_4_28"
+    },
+    "attached_face=west,screen_faces=29": {
+      "model": "omni_display:block/thin_4_29"
+    },
+    "attached_face=west,screen_faces=30": {
+      "model": "omni_display:block/thin_4_30"
+    },
+    "attached_face=west,screen_faces=31": {
+      "model": "omni_display:block/thin_4_31"
+    },
+    "attached_face=west,screen_faces=32": {
+      "model": "omni_display:block/thin_4_32"
+    },
+    "attached_face=west,screen_faces=33": {
+      "model": "omni_display:block/thin_4_33"
+    },
+    "attached_face=west,screen_faces=34": {
+      "model": "omni_display:block/thin_4_34"
+    },
+    "attached_face=west,screen_faces=35": {
+      "model": "omni_display:block/thin_4_35"
+    },
+    "attached_face=west,screen_faces=36": {
+      "model": "omni_display:block/thin_4_36"
+    },
+    "attached_face=west,screen_faces=37": {
+      "model": "omni_display:block/thin_4_37"
+    },
+    "attached_face=west,screen_faces=38": {
+      "model": "omni_display:block/thin_4_38"
+    },
+    "attached_face=west,screen_faces=39": {
+      "model": "omni_display:block/thin_4_39"
+    },
+    "attached_face=west,screen_faces=40": {
+      "model": "omni_display:block/thin_4_40"
+    },
+    "attached_face=west,screen_faces=41": {
+      "model": "omni_display:block/thin_4_41"
+    },
+    "attached_face=west,screen_faces=42": {
+      "model": "omni_display:block/thin_4_42"
+    },
+    "attached_face=west,screen_faces=43": {
+      "model": "omni_display:block/thin_4_43"
+    },
+    "attached_face=west,screen_faces=44": {
+      "model": "omni_display:block/thin_4_44"
+    },
+    "attached_face=west,screen_faces=45": {
+      "model": "omni_display:block/thin_4_45"
+    },
+    "attached_face=west,screen_faces=46": {
+      "model": "omni_display:block/thin_4_46"
+    },
+    "attached_face=west,screen_faces=47": {
+      "model": "omni_display:block/thin_4_47"
+    },
+    "attached_face=west,screen_faces=48": {
+      "model": "omni_display:block/thin_4_48"
+    },
+    "attached_face=west,screen_faces=49": {
+      "model": "omni_display:block/thin_4_49"
+    },
+    "attached_face=west,screen_faces=50": {
+      "model": "omni_display:block/thin_4_50"
+    },
+    "attached_face=west,screen_faces=51": {
+      "model": "omni_display:block/thin_4_51"
+    },
+    "attached_face=west,screen_faces=52": {
+      "model": "omni_display:block/thin_4_52"
+    },
+    "attached_face=west,screen_faces=53": {
+      "model": "omni_display:block/thin_4_53"
+    },
+    "attached_face=west,screen_faces=54": {
+      "model": "omni_display:block/thin_4_54"
+    },
+    "attached_face=west,screen_faces=55": {
+      "model": "omni_display:block/thin_4_55"
+    },
+    "attached_face=west,screen_faces=56": {
+      "model": "omni_display:block/thin_4_56"
+    },
+    "attached_face=west,screen_faces=57": {
+      "model": "omni_display:block/thin_4_57"
+    },
+    "attached_face=west,screen_faces=58": {
+      "model": "omni_display:block/thin_4_58"
+    },
+    "attached_face=west,screen_faces=59": {
+      "model": "omni_display:block/thin_4_59"
+    },
+    "attached_face=west,screen_faces=60": {
+      "model": "omni_display:block/thin_4_60"
+    },
+    "attached_face=west,screen_faces=61": {
+      "model": "omni_display:block/thin_4_61"
+    },
+    "attached_face=west,screen_faces=62": {
+      "model": "omni_display:block/thin_4_62"
+    },
+    "attached_face=west,screen_faces=63": {
+      "model": "omni_display:block/thin_4_63"
+    },
+    "attached_face=east,screen_faces=0": {
+      "model": "omni_display:block/thin_5_0"
+    },
+    "attached_face=east,screen_faces=1": {
+      "model": "omni_display:block/thin_5_1"
+    },
+    "attached_face=east,screen_faces=2": {
+      "model": "omni_display:block/thin_5_2"
+    },
+    "attached_face=east,screen_faces=3": {
+      "model": "omni_display:block/thin_5_3"
+    },
+    "attached_face=east,screen_faces=4": {
+      "model": "omni_display:block/thin_5_4"
+    },
+    "attached_face=east,screen_faces=5": {
+      "model": "omni_display:block/thin_5_5"
+    },
+    "attached_face=east,screen_faces=6": {
+      "model": "omni_display:block/thin_5_6"
+    },
+    "attached_face=east,screen_faces=7": {
+      "model": "omni_display:block/thin_5_7"
+    },
+    "attached_face=east,screen_faces=8": {
+      "model": "omni_display:block/thin_5_8"
+    },
+    "attached_face=east,screen_faces=9": {
+      "model": "omni_display:block/thin_5_9"
+    },
+    "attached_face=east,screen_faces=10": {
+      "model": "omni_display:block/thin_5_10"
+    },
+    "attached_face=east,screen_faces=11": {
+      "model": "omni_display:block/thin_5_11"
+    },
+    "attached_face=east,screen_faces=12": {
+      "model": "omni_display:block/thin_5_12"
+    },
+    "attached_face=east,screen_faces=13": {
+      "model": "omni_display:block/thin_5_13"
+    },
+    "attached_face=east,screen_faces=14": {
+      "model": "omni_display:block/thin_5_14"
+    },
+    "attached_face=east,screen_faces=15": {
+      "model": "omni_display:block/thin_5_15"
+    },
+    "attached_face=east,screen_faces=16": {
+      "model": "omni_display:block/thin_5_16"
+    },
+    "attached_face=east,screen_faces=17": {
+      "model": "omni_display:block/thin_5_17"
+    },
+    "attached_face=east,screen_faces=18": {
+      "model": "omni_display:block/thin_5_18"
+    },
+    "attached_face=east,screen_faces=19": {
+      "model": "omni_display:block/thin_5_19"
+    },
+    "attached_face=east,screen_faces=20": {
+      "model": "omni_display:block/thin_5_20"
+    },
+    "attached_face=east,screen_faces=21": {
+      "model": "omni_display:block/thin_5_21"
+    },
+    "attached_face=east,screen_faces=22": {
+      "model": "omni_display:block/thin_5_22"
+    },
+    "attached_face=east,screen_faces=23": {
+      "model": "omni_display:block/thin_5_23"
+    },
+    "attached_face=east,screen_faces=24": {
+      "model": "omni_display:block/thin_5_24"
+    },
+    "attached_face=east,screen_faces=25": {
+      "model": "omni_display:block/thin_5_25"
+    },
+    "attached_face=east,screen_faces=26": {
+      "model": "omni_display:block/thin_5_26"
+    },
+    "attached_face=east,screen_faces=27": {
+      "model": "omni_display:block/thin_5_27"
+    },
+    "attached_face=east,screen_faces=28": {
+      "model": "omni_display:block/thin_5_28"
+    },
+    "attached_face=east,screen_faces=29": {
+      "model": "omni_display:block/thin_5_29"
+    },
+    "attached_face=east,screen_faces=30": {
+      "model": "omni_display:block/thin_5_30"
+    },
+    "attached_face=east,screen_faces=31": {
+      "model": "omni_display:block/thin_5_31"
+    },
+    "attached_face=east,screen_faces=32": {
+      "model": "omni_display:block/thin_5_32"
+    },
+    "attached_face=east,screen_faces=33": {
+      "model": "omni_display:block/thin_5_33"
+    },
+    "attached_face=east,screen_faces=34": {
+      "model": "omni_display:block/thin_5_34"
+    },
+    "attached_face=east,screen_faces=35": {
+      "model": "omni_display:block/thin_5_35"
+    },
+    "attached_face=east,screen_faces=36": {
+      "model": "omni_display:block/thin_5_36"
+    },
+    "attached_face=east,screen_faces=37": {
+      "model": "omni_display:block/thin_5_37"
+    },
+    "attached_face=east,screen_faces=38": {
+      "model": "omni_display:block/thin_5_38"
+    },
+    "attached_face=east,screen_faces=39": {
+      "model": "omni_display:block/thin_5_39"
+    },
+    "attached_face=east,screen_faces=40": {
+      "model": "omni_display:block/thin_5_40"
+    },
+    "attached_face=east,screen_faces=41": {
+      "model": "omni_display:block/thin_5_41"
+    },
+    "attached_face=east,screen_faces=42": {
+      "model": "omni_display:block/thin_5_42"
+    },
+    "attached_face=east,screen_faces=43": {
+      "model": "omni_display:block/thin_5_43"
+    },
+    "attached_face=east,screen_faces=44": {
+      "model": "omni_display:block/thin_5_44"
+    },
+    "attached_face=east,screen_faces=45": {
+      "model": "omni_display:block/thin_5_45"
+    },
+    "attached_face=east,screen_faces=46": {
+      "model": "omni_display:block/thin_5_46"
+    },
+    "attached_face=east,screen_faces=47": {
+      "model": "omni_display:block/thin_5_47"
+    },
+    "attached_face=east,screen_faces=48": {
+      "model": "omni_display:block/thin_5_48"
+    },
+    "attached_face=east,screen_faces=49": {
+      "model": "omni_display:block/thin_5_49"
+    },
+    "attached_face=east,screen_faces=50": {
+      "model": "omni_display:block/thin_5_50"
+    },
+    "attached_face=east,screen_faces=51": {
+      "model": "omni_display:block/thin_5_51"
+    },
+    "attached_face=east,screen_faces=52": {
+      "model": "omni_display:block/thin_5_52"
+    },
+    "attached_face=east,screen_faces=53": {
+      "model": "omni_display:block/thin_5_53"
+    },
+    "attached_face=east,screen_faces=54": {
+      "model": "omni_display:block/thin_5_54"
+    },
+    "attached_face=east,screen_faces=55": {
+      "model": "omni_display:block/thin_5_55"
+    },
+    "attached_face=east,screen_faces=56": {
+      "model": "omni_display:block/thin_5_56"
+    },
+    "attached_face=east,screen_faces=57": {
+      "model": "omni_display:block/thin_5_57"
+    },
+    "attached_face=east,screen_faces=58": {
+      "model": "omni_display:block/thin_5_58"
+    },
+    "attached_face=east,screen_faces=59": {
+      "model": "omni_display:block/thin_5_59"
+    },
+    "attached_face=east,screen_faces=60": {
+      "model": "omni_display:block/thin_5_60"
+    },
+    "attached_face=east,screen_faces=61": {
+      "model": "omni_display:block/thin_5_61"
+    },
+    "attached_face=east,screen_faces=62": {
+      "model": "omni_display:block/thin_5_62"
+    },
+    "attached_face=east,screen_faces=63": {
+      "model": "omni_display:block/thin_5_63"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "omni_display:display",
+    "omni_display:thin_display",
+    "omni_display:cockpit_trapdoor"
+  ]
+}

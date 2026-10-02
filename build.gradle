@@ -3,7 +3,7 @@ plugins {
  id 'net.neoforged.moddev' version '2.0.147'
 }
 group='dev.omnidisplay'
-version='1.0'
+version='1.3alpha5'
 base { archivesName='omni-display' }
 java { toolchain.languageVersion=JavaLanguageVersion.of(21); withSourcesJar() }
 neoForge {

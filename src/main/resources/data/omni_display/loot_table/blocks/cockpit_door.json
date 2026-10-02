@@ -1,0 +1,1 @@
+{"type": "minecraft:block", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "omni_display:cockpit_door"}], "conditions": [{"condition": "minecraft:block_state_property", "block": "omni_display:cockpit_door", "properties": {"half": "lower"}}, {"condition": "minecraft:survives_explosion"}]}]}

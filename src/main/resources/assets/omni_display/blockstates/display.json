@@ -1,0 +1,196 @@
+{
+  "variants": {
+    "screen_faces=0": {
+      "model": "omni_display:block/display_0"
+    },
+    "screen_faces=1": {
+      "model": "omni_display:block/display_1"
+    },
+    "screen_faces=2": {
+      "model": "omni_display:block/display_2"
+    },
+    "screen_faces=3": {
+      "model": "omni_display:block/display_3"
+    },
+    "screen_faces=4": {
+      "model": "omni_display:block/display_4"
+    },
+    "screen_faces=5": {
+      "model": "omni_display:block/display_5"
+    },
+    "screen_faces=6": {
+      "model": "omni_display:block/display_6"
+    },
+    "screen_faces=7": {
+      "model": "omni_display:block/display_7"
+    },
+    "screen_faces=8": {
+      "model": "omni_display:block/display_8"
+    },
+    "screen_faces=9": {
+      "model": "omni_display:block/display_9"
+    },
+    "screen_faces=10": {
+      "model": "omni_display:block/display_10"
+    },
+    "screen_faces=11": {
+      "model": "omni_display:block/display_11"
+    },
+    "screen_faces=12": {
+      "model": "omni_display:block/display_12"
+    },
+    "screen_faces=13": {
+      "model": "omni_display:block/display_13"
+    },
+    "screen_faces=14": {
+      "model": "omni_display:block/display_14"
+    },
+    "screen_faces=15": {
+      "model": "omni_display:block/display_15"
+    },
+    "screen_faces=16": {
+      "model": "omni_display:block/display_16"
+    },
+    "screen_faces=17": {
+      "model": "omni_display:block/display_17"
+    },
+    "screen_faces=18": {
+      "model": "omni_display:block/display_18"
+    },
+    "screen_faces=19": {
+      "model": "omni_display:block/display_19"
+    },
+    "screen_faces=20": {
+      "model": "omni_display:block/display_20"
+    },
+    "screen_faces=21": {
+      "model": "omni_display:block/display_21"
+    },
+    "screen_faces=22": {
+      "model": "omni_display:block/display_22"
+    },
+    "screen_faces=23": {
+      "model": "omni_display:block/display_23"
+    },
+    "screen_faces=24": {
+      "model": "omni_display:block/display_24"
+    },
+    "screen_faces=25": {
+      "model": "omni_display:block/display_25"
+    },
+    "screen_faces=26": {
+      "model": "omni_display:block/display_26"
+    },
+    "screen_faces=27": {
+      "model": "omni_display:block/display_27"
+    },
+    "screen_faces=28": {
+      "model": "omni_display:block/display_28"
+    },
+    "screen_faces=29": {
+      "model": "omni_display:block/display_29"
+    },
+    "screen_faces=30": {
+      "model": "omni_display:block/display_30"
+    },
+    "screen_faces=31": {
+      "model": "omni_display:block/display_31"
+    },
+    "screen_faces=32": {
+      "model": "omni_display:block/display_32"
+    },
+    "screen_faces=33": {
+      "model": "omni_display:block/display_33"
+    },
+    "screen_faces=34": {
+      "model": "omni_display:block/display_34"
+    },
+    "screen_faces=35": {
+      "model": "omni_display:block/display_35"
+    },
+    "screen_faces=36": {
+      "model": "omni_display:block/display_36"
+    },
+    "screen_faces=37": {
+      "model": "omni_display:block/display_37"
+    },
+    "screen_faces=38": {
+      "model": "omni_display:block/display_38"
+    },
+    "screen_faces=39": {
+      "model": "omni_display:block/display_39"
+    },
+    "screen_faces=40": {
+      "model": "omni_display:block/display_40"
+    },
+    "screen_faces=41": {
+      "model": "omni_display:block/display_41"
+    },
+    "screen_faces=42": {
+      "model": "omni_display:block/display_42"
+    },
+    "screen_faces=43": {
+      "model": "omni_display:block/display_43"
+    },
+    "screen_faces=44": {
+      "model": "omni_display:block/display_44"
+    },
+    "screen_faces=45": {
+      "model": "omni_display:block/display_45"
+    },
+    "screen_faces=46": {
+      "model": "omni_display:block/display_46"
+    },
+    "screen_faces=47": {
+      "model": "omni_display:block/display_47"
+    },
+    "screen_faces=48": {
+      "model": "omni_display:block/display_48"
+    },
+    "screen_faces=49": {
+      "model": "omni_display:block/display_49"
+    },
+    "screen_faces=50": {
+      "model": "omni_display:block/display_50"
+    },
+    "screen_faces=51": {
+      "model": "omni_display:block/display_51"
+    },
+    "screen_faces=52": {
+      "model": "omni_display:block/display_52"
+    },
+    "screen_faces=53": {
+      "model": "omni_display:block/display_53"
+    },
+    "screen_faces=54": {
+      "model": "omni_display:block/display_54"
+    },
+    "screen_faces=55": {
+      "model": "omni_display:block/display_55"
+    },
+    "screen_faces=56": {
+      "model": "omni_display:block/display_56"
+    },
+    "screen_faces=57": {
+      "model": "omni_display:block/display_57"
+    },
+    "screen_faces=58": {
+      "model": "omni_display:block/display_58"
+    },
+    "screen_faces=59": {
+      "model": "omni_display:block/display_59"
+    },
+    "screen_faces=60": {
+      "model": "omni_display:block/display_60"
+    },
+    "screen_faces=61": {
+      "model": "omni_display:block/display_61"
+    },
+    "screen_faces=62": {
+      "model": "omni_display:block/display_62"
+    },
+    "screen_faces=63": {
+      "model": "omni_display:block/display_63"
+    }
+  }
+}

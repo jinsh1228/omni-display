@@ -1,0 +1,31 @@
+{
+  "textures": {
+    "panel": "omni_display:block/screen_back",
+    "back": "omni_display:block/screen_back"
+  },
+  "elements": [
+    {
+      "from": [
+        16.015,
+        0,
+        0
+      ],
+      "to": [
+        16.015,
+        16,
+        16
+      ],
+      "faces": {
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#back"
+        }
+      }
+    }
+  ]
+}

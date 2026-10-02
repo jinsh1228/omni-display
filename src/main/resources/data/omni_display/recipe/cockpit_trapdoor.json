@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "item": "omni_display:thin_display"
+    }
+  },
+  "result": {
+    "id": "omni_display:cockpit_trapdoor",
+    "count": 1
+  }
+}

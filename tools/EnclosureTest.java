@@ -12,7 +12,9 @@ public class EnclosureTest {
   box.add(new Cell(1000,1000,1000));check(Enclosure.detect(box,seed).walls().size()==98);
   box.addAll(cube(4,4,4,5));check(Enclosure.detect(box,seed).interior().size()==54);
   var shifted=cube(30000000,-20,-30000000,5);check(Enclosure.detect(shifted,new Cell(30000000,-20,-30000000)).interior().size()==27);
-  rejected(cube(0,0,0,20),seed);
+  check(Enclosure.detect(cube(0,0,0,19),seed).interior().size()==4913);
+  check(Enclosure.detect(cube(0,0,0,20),seed).interior().size()==5832);
+  rejected(cube(0,0,0,28),seed);
   var open=new HashSet<Cell>();for(int x=0;x<5;x++)for(int y=0;y<5;y++)open.add(new Cell(x,y,0));rejected(open,seed);
   System.out.println("PASS: closed shell, leak, repair, unrelated screens, corner-connected chambers, large coordinates, size limit, open sheet");
  }

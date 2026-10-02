@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "omni_display:block/screen_back",
+    "up": "omni_display:block/screen_hex",
+    "north": "omni_display:block/screen_hex",
+    "south": "omni_display:block/screen_hex",
+    "west": "omni_display:block/screen_back",
+    "east": "omni_display:block/screen_hex",
+    "particle": "omni_display:block/screen_back"
+  }
+}

@@ -22,7 +22,7 @@ cp+=[f for f in libs.rglob('*.jar') if 'net/minecraftforge' not in f.as_posix() 
 args=['--release','21','-encoding','UTF-8','-proc:none','-classpath',';'.join(map(str,cp)),'-d',str(classes)]+list(map(str,(p/'src/main/java').rglob('*.java')))
 argfile=out/'javac.args';argfile.write_text('\n'.join('"'+s.replace('\\','/')+'"' for s in args),encoding='utf-8')
 subprocess.run([str(jdk/'bin/javac.exe'),'-J-Duser.language=en','@'+str(argfile)],check=True,cwd=p)
-dest=p/'build/libs/omni-display-1.0.jar';dest.parent.mkdir(parents=True,exist_ok=True)
+dest=p/'build/libs/omni-display-1.3alpha5.jar';dest.parent.mkdir(parents=True,exist_ok=True)
 with zipfile.ZipFile(dest,'w',zipfile.ZIP_DEFLATED) as z:
  for root in [classes,p/'src/main/resources']:
   for f in root.rglob('*'):

@@ -1,0 +1,40 @@
+{
+  "textures": {
+    "panel": "omni_display:block/screen_hex",
+    "back": "omni_display:block/screen_back"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        16.015
+      ],
+      "to": [
+        16,
+        16,
+        16.015
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#panel"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#back"
+        }
+      }
+    }
+  ]
+}

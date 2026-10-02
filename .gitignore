@@ -1,0 +1,47 @@
+.gradle/
+build/
+libs/*.jar
+run/
+
+# Dependency folders and generated output
+node_modules/
+dist/
+out/
+target/
+bin/
+
+# IDE and local machine settings
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+local.properties
+
+# Caches, logs, and temporary files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+cache/
+caches/
+logs/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Credentials and private configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+.aws/
+.ssh/

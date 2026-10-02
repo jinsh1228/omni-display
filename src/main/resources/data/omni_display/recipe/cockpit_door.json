@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "D",
+    "D"
+  ],
+  "key": {
+    "D": {
+      "item": "omni_display:screen_panel"
+    }
+  },
+  "result": {
+    "id": "omni_display:cockpit_door",
+    "count": 1
+  }
+}

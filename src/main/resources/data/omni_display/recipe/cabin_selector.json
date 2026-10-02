@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "omni_display:screen_panel"
+    }
+  ],
+  "result": {
+    "id": "omni_display:cabin_selector",
+    "count": 1
+  }
+}

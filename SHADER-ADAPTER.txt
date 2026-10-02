@@ -1,0 +1,33 @@
+Omni Display 1.1alpha-shader2 — 通用光影适配第一轮实验
+
+基线：Photon2。已完全撤销 Photon3 的接缝与选中轮廓延后绘制，接缝、贴片、开机动画沿用 Photon2。
+
+改动：
+1. Iris 1.8.14 接口上的其他光影不再按 Photon 文件名拒绝，尝试通用双画面渲染与显示面合成。
+2. 保留 Photon2 的正常/透视历史颜色纹理、上一帧矩阵隔离。
+3. 新增未逐帧清空的自定义 1D/2D/3D/矩形纹理、SSBO 计算缓冲区的双视图隔离；支持尺寸变化、资源替换、异常恢复和释放。
+4. 原低配photon-voxy-support 仍使用 Photon2 的抖动/TAAU/Voxy 深度转换。
+5. 其他光影使用标准 Iris 原生深度，暂不自动识别各光影的顶点抖动、内部缩放、Distant Horizons / Voxy 远景深度布局。
+6. 接口或资源复制失败时退回正常画面，并写入 OmniDisplay/Shaders 日志。
+
+验证：Java 21 编译通过；19 项离线 Java 检查通过，其中新检查涵盖 120 帧图像/缓冲区隔离、异常中止、相对尺寸变化、资源替换、部分分配失败释放。
+实际 OpenGL 检查通过：合成和深度着色器、Photon 色彩历史复制、3D RGBA16F / R8UI 图像以及 SSBO 复制。
+接缝/贴片/动画源文件与 Photon2 一致；JAR 不含 Photon3 的延后绘制代码。
+尚未进 Minecraft 实测。没有确认任何其他光影已兼容，也没有确认 Photon2 的残余拖影已消除。
+
+安装与测试：
+关闭游戏，使用 omni-display-1.1alpha-shader2.jar 替换旧 Omni Display，mods 只保留一个版本。
+保持原光影 ZIP 与设置不变。F8 开启分区渲染。
+先用原 Photon 复查：接缝应回到 Photon2 的行为，尤其检查转头是否还会跟随视角。
+再依次尝试已有的 Complementary Reimagined / Unbound、BSL、Bliss；建议先 Complementary。
+每个光影检查开关机、开门、舱外看内侧屏幕、转头、移动、生物、天空、视距边界、前景遮挡及切换光影。
+日志 Independent shader view histories active 会记录光影名称、深度路径和隔离资源数量。
+若异常，请保留对应光影名称、设置、latest.log 与崩溃报告；可回退 Photon2。
+
+限制：
+这是共用 Iris 管线的状态隔离实验，尚不是完整的独立双管线，也不是已完成的普遍兼容版。
+自定义深度、体积效果、景深、屏幕反射、远景、投影抖动、额外时间状态仍可能不正确。
+双遍渲染增加 GPU 开销；体积光照纹理和 SSBO 的两路快照可能明显增加显存和复制开销。
+仅核对本机 Iris 1.8.14 接口。光影包、配置文件及游戏安装目录均未修改。
+
+本轮新增 HUD 显示面裁剪与动态门遮罩，详情见 CHANGES-shader2.txt。

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "omni_display:screen_panel"
+    }
+  },
+  "result": {
+    "id": "omni_display:thin_display",
+    "count": 6
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "block.omni_display.display": "全周天显示器",
+  "key.omni_display.restore": "关闭当前座舱（共享）",
+  "key.categories.omni_display": "全周天显示器",
+  "omni_display.on": "本机结构透视已开启，按 H 恢复（可在按键设置中修改）",
+  "omni_display.off": "已恢复载具显示",
+  "omni_display.not_assembled": "请先将显示器装配到航空学载具上",
+  "key.omni_display.hud": "切换飞行 HUD",
+  "key.omni_display.align": "校准 HUD 机头方向",
+  "block.omni_display.cockpit_door": "全周天座舱门",
+  "item.omni_display.highlight_tool": "载具高光显示工具",
+  "block.omni_display.thin_display": "轻薄全周天显示器",
+  "item.omni_display.screen_panel": "全周天屏幕面板",
+  "tooltip.omni_display.screen_panel.place": "右键贴在方块表面，不占额外方块格。",
+  "tooltip.omni_display.screen_panel.remove": "机械动力扳手右键拆除；也可手持面板潜行右键拆除。",
+  "tooltip.omni_display.screen_panel.configure": "空手右键贴片开关机，潜行右键配置；未贴片的面保留原交互。",
+  "itemGroup.omni_display": "全周天显示器",
+  "block.omni_display.cockpit_trapdoor": "全周天座舱活板门",
+  "key.omni_display.partition": "打开模组渲染设置",
+  "item.omni_display.hud_locator": "HUD 中心定位器",
+  "item.omni_display.cabin_selector": "座舱选择工具"
+}

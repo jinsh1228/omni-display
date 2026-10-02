@@ -1,0 +1,22 @@
+{
+  "block.omni_display.display": "Omnidirectional Display",
+  "key.omni_display.restore": "Power off current cockpit (shared)",
+  "key.categories.omni_display": "Omni Display",
+  "omni_display.on": "Structure hidden. Press H to restore (rebind in Controls).",
+  "omni_display.off": "Structure visibility restored",
+  "omni_display.not_assembled": "Assemble this display into a Sable structure first.",
+  "key.omni_display.hud": "Toggle flight HUD",
+  "key.omni_display.align": "Calibrate HUD forward direction",
+  "block.omni_display.cockpit_door": "Omnidirectional Cockpit Door",
+  "item.omni_display.highlight_tool": "Vehicle Highlight Tool",
+  "block.omni_display.thin_display": "Thin Omnidirectional Display",
+  "item.omni_display.screen_panel": "Omnidirectional Screen Panel",
+  "tooltip.omni_display.screen_panel.place": "Use on a block face; occupies no extra block cell.",
+  "tooltip.omni_display.screen_panel.remove": "Use a Create wrench to remove; sneak-use with a panel also works.",
+  "tooltip.omni_display.screen_panel.configure": "Empty-hand use toggles power; sneak-use configures. Uncoated faces keep host interaction.",
+  "itemGroup.omni_display": "Omni Display",
+  "block.omni_display.cockpit_trapdoor": "Omnidirectional Cockpit Trapdoor",
+  "key.omni_display.partition": "Open Omni Display Render Settings",
+  "item.omni_display.hud_locator": "HUD Center Locator",
+  "item.omni_display.cabin_selector": "Cockpit Selection Tool"
+}

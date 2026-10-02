@@ -1,0 +1,3076 @@
+{
+  "variants": {
+    "facing=north,half=top,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_1_0"
+    },
+    "facing=north,half=top,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_1_1"
+    },
+    "facing=north,half=top,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_1_2"
+    },
+    "facing=north,half=top,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_1_3"
+    },
+    "facing=north,half=top,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_1_4"
+    },
+    "facing=north,half=top,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_1_5"
+    },
+    "facing=north,half=top,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_1_6"
+    },
+    "facing=north,half=top,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_1_7"
+    },
+    "facing=north,half=top,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_1_8"
+    },
+    "facing=north,half=top,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_1_9"
+    },
+    "facing=north,half=top,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_1_10"
+    },
+    "facing=north,half=top,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_1_11"
+    },
+    "facing=north,half=top,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_1_12"
+    },
+    "facing=north,half=top,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_1_13"
+    },
+    "facing=north,half=top,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_1_14"
+    },
+    "facing=north,half=top,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_1_15"
+    },
+    "facing=north,half=top,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_1_16"
+    },
+    "facing=north,half=top,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_1_17"
+    },
+    "facing=north,half=top,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_1_18"
+    },
+    "facing=north,half=top,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_1_19"
+    },
+    "facing=north,half=top,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_1_20"
+    },
+    "facing=north,half=top,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_1_21"
+    },
+    "facing=north,half=top,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_1_22"
+    },
+    "facing=north,half=top,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_1_23"
+    },
+    "facing=north,half=top,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_1_24"
+    },
+    "facing=north,half=top,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_1_25"
+    },
+    "facing=north,half=top,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_1_26"
+    },
+    "facing=north,half=top,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_1_27"
+    },
+    "facing=north,half=top,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_1_28"
+    },
+    "facing=north,half=top,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_1_29"
+    },
+    "facing=north,half=top,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_1_30"
+    },
+    "facing=north,half=top,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_1_31"
+    },
+    "facing=north,half=top,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_1_32"
+    },
+    "facing=north,half=top,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_1_33"
+    },
+    "facing=north,half=top,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_1_34"
+    },
+    "facing=north,half=top,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_1_35"
+    },
+    "facing=north,half=top,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_1_36"
+    },
+    "facing=north,half=top,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_1_37"
+    },
+    "facing=north,half=top,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_1_38"
+    },
+    "facing=north,half=top,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_1_39"
+    },
+    "facing=north,half=top,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_1_40"
+    },
+    "facing=north,half=top,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_1_41"
+    },
+    "facing=north,half=top,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_1_42"
+    },
+    "facing=north,half=top,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_1_43"
+    },
+    "facing=north,half=top,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_1_44"
+    },
+    "facing=north,half=top,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_1_45"
+    },
+    "facing=north,half=top,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_1_46"
+    },
+    "facing=north,half=top,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_1_47"
+    },
+    "facing=north,half=top,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_1_48"
+    },
+    "facing=north,half=top,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_1_49"
+    },
+    "facing=north,half=top,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_1_50"
+    },
+    "facing=north,half=top,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_1_51"
+    },
+    "facing=north,half=top,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_1_52"
+    },
+    "facing=north,half=top,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_1_53"
+    },
+    "facing=north,half=top,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_1_54"
+    },
+    "facing=north,half=top,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_1_55"
+    },
+    "facing=north,half=top,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_1_56"
+    },
+    "facing=north,half=top,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_1_57"
+    },
+    "facing=north,half=top,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_1_58"
+    },
+    "facing=north,half=top,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_1_59"
+    },
+    "facing=north,half=top,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_1_60"
+    },
+    "facing=north,half=top,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_1_61"
+    },
+    "facing=north,half=top,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_1_62"
+    },
+    "facing=north,half=top,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_1_63"
+    },
+    "facing=north,half=top,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_3_0"
+    },
+    "facing=north,half=top,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_3_1"
+    },
+    "facing=north,half=top,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_3_2"
+    },
+    "facing=north,half=top,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_3_3"
+    },
+    "facing=north,half=top,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_3_4"
+    },
+    "facing=north,half=top,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_3_5"
+    },
+    "facing=north,half=top,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_3_6"
+    },
+    "facing=north,half=top,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_3_7"
+    },
+    "facing=north,half=top,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_3_8"
+    },
+    "facing=north,half=top,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_3_9"
+    },
+    "facing=north,half=top,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_3_10"
+    },
+    "facing=north,half=top,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_3_11"
+    },
+    "facing=north,half=top,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_3_12"
+    },
+    "facing=north,half=top,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_3_13"
+    },
+    "facing=north,half=top,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_3_14"
+    },
+    "facing=north,half=top,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_3_15"
+    },
+    "facing=north,half=top,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_3_16"
+    },
+    "facing=north,half=top,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_3_17"
+    },
+    "facing=north,half=top,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_3_18"
+    },
+    "facing=north,half=top,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_3_19"
+    },
+    "facing=north,half=top,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_3_20"
+    },
+    "facing=north,half=top,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_3_21"
+    },
+    "facing=north,half=top,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_3_22"
+    },
+    "facing=north,half=top,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_3_23"
+    },
+    "facing=north,half=top,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_3_24"
+    },
+    "facing=north,half=top,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_3_25"
+    },
+    "facing=north,half=top,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_3_26"
+    },
+    "facing=north,half=top,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_3_27"
+    },
+    "facing=north,half=top,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_3_28"
+    },
+    "facing=north,half=top,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_3_29"
+    },
+    "facing=north,half=top,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_3_30"
+    },
+    "facing=north,half=top,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_3_31"
+    },
+    "facing=north,half=top,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_3_32"
+    },
+    "facing=north,half=top,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_3_33"
+    },
+    "facing=north,half=top,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_3_34"
+    },
+    "facing=north,half=top,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_3_35"
+    },
+    "facing=north,half=top,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_3_36"
+    },
+    "facing=north,half=top,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_3_37"
+    },
+    "facing=north,half=top,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_3_38"
+    },
+    "facing=north,half=top,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_3_39"
+    },
+    "facing=north,half=top,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_3_40"
+    },
+    "facing=north,half=top,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_3_41"
+    },
+    "facing=north,half=top,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_3_42"
+    },
+    "facing=north,half=top,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_3_43"
+    },
+    "facing=north,half=top,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_3_44"
+    },
+    "facing=north,half=top,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_3_45"
+    },
+    "facing=north,half=top,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_3_46"
+    },
+    "facing=north,half=top,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_3_47"
+    },
+    "facing=north,half=top,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_3_48"
+    },
+    "facing=north,half=top,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_3_49"
+    },
+    "facing=north,half=top,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_3_50"
+    },
+    "facing=north,half=top,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_3_51"
+    },
+    "facing=north,half=top,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_3_52"
+    },
+    "facing=north,half=top,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_3_53"
+    },
+    "facing=north,half=top,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_3_54"
+    },
+    "facing=north,half=top,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_3_55"
+    },
+    "facing=north,half=top,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_3_56"
+    },
+    "facing=north,half=top,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_3_57"
+    },
+    "facing=north,half=top,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_3_58"
+    },
+    "facing=north,half=top,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_3_59"
+    },
+    "facing=north,half=top,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_3_60"
+    },
+    "facing=north,half=top,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_3_61"
+    },
+    "facing=north,half=top,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_3_62"
+    },
+    "facing=north,half=top,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_3_63"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_0_0"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_0_1"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_0_2"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_0_3"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_0_4"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_0_5"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_0_6"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_0_7"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_0_8"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_0_9"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_0_10"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_0_11"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_0_12"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_0_13"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_0_14"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_0_15"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_0_16"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_0_17"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_0_18"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_0_19"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_0_20"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_0_21"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_0_22"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_0_23"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_0_24"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_0_25"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_0_26"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_0_27"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_0_28"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_0_29"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_0_30"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_0_31"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_0_32"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_0_33"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_0_34"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_0_35"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_0_36"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_0_37"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_0_38"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_0_39"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_0_40"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_0_41"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_0_42"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_0_43"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_0_44"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_0_45"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_0_46"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_0_47"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_0_48"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_0_49"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_0_50"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_0_51"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_0_52"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_0_53"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_0_54"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_0_55"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_0_56"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_0_57"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_0_58"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_0_59"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_0_60"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_0_61"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_0_62"
+    },
+    "facing=north,half=bottom,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_0_63"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_3_0"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_3_1"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_3_2"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_3_3"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_3_4"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_3_5"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_3_6"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_3_7"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_3_8"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_3_9"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_3_10"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_3_11"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_3_12"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_3_13"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_3_14"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_3_15"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_3_16"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_3_17"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_3_18"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_3_19"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_3_20"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_3_21"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_3_22"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_3_23"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_3_24"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_3_25"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_3_26"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_3_27"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_3_28"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_3_29"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_3_30"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_3_31"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_3_32"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_3_33"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_3_34"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_3_35"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_3_36"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_3_37"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_3_38"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_3_39"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_3_40"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_3_41"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_3_42"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_3_43"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_3_44"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_3_45"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_3_46"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_3_47"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_3_48"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_3_49"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_3_50"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_3_51"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_3_52"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_3_53"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_3_54"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_3_55"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_3_56"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_3_57"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_3_58"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_3_59"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_3_60"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_3_61"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_3_62"
+    },
+    "facing=north,half=bottom,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_3_63"
+    },
+    "facing=south,half=top,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_1_0"
+    },
+    "facing=south,half=top,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_1_1"
+    },
+    "facing=south,half=top,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_1_2"
+    },
+    "facing=south,half=top,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_1_3"
+    },
+    "facing=south,half=top,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_1_4"
+    },
+    "facing=south,half=top,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_1_5"
+    },
+    "facing=south,half=top,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_1_6"
+    },
+    "facing=south,half=top,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_1_7"
+    },
+    "facing=south,half=top,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_1_8"
+    },
+    "facing=south,half=top,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_1_9"
+    },
+    "facing=south,half=top,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_1_10"
+    },
+    "facing=south,half=top,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_1_11"
+    },
+    "facing=south,half=top,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_1_12"
+    },
+    "facing=south,half=top,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_1_13"
+    },
+    "facing=south,half=top,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_1_14"
+    },
+    "facing=south,half=top,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_1_15"
+    },
+    "facing=south,half=top,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_1_16"
+    },
+    "facing=south,half=top,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_1_17"
+    },
+    "facing=south,half=top,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_1_18"
+    },
+    "facing=south,half=top,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_1_19"
+    },
+    "facing=south,half=top,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_1_20"
+    },
+    "facing=south,half=top,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_1_21"
+    },
+    "facing=south,half=top,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_1_22"
+    },
+    "facing=south,half=top,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_1_23"
+    },
+    "facing=south,half=top,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_1_24"
+    },
+    "facing=south,half=top,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_1_25"
+    },
+    "facing=south,half=top,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_1_26"
+    },
+    "facing=south,half=top,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_1_27"
+    },
+    "facing=south,half=top,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_1_28"
+    },
+    "facing=south,half=top,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_1_29"
+    },
+    "facing=south,half=top,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_1_30"
+    },
+    "facing=south,half=top,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_1_31"
+    },
+    "facing=south,half=top,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_1_32"
+    },
+    "facing=south,half=top,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_1_33"
+    },
+    "facing=south,half=top,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_1_34"
+    },
+    "facing=south,half=top,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_1_35"
+    },
+    "facing=south,half=top,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_1_36"
+    },
+    "facing=south,half=top,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_1_37"
+    },
+    "facing=south,half=top,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_1_38"
+    },
+    "facing=south,half=top,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_1_39"
+    },
+    "facing=south,half=top,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_1_40"
+    },
+    "facing=south,half=top,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_1_41"
+    },
+    "facing=south,half=top,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_1_42"
+    },
+    "facing=south,half=top,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_1_43"
+    },
+    "facing=south,half=top,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_1_44"
+    },
+    "facing=south,half=top,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_1_45"
+    },
+    "facing=south,half=top,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_1_46"
+    },
+    "facing=south,half=top,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_1_47"
+    },
+    "facing=south,half=top,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_1_48"
+    },
+    "facing=south,half=top,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_1_49"
+    },
+    "facing=south,half=top,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_1_50"
+    },
+    "facing=south,half=top,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_1_51"
+    },
+    "facing=south,half=top,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_1_52"
+    },
+    "facing=south,half=top,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_1_53"
+    },
+    "facing=south,half=top,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_1_54"
+    },
+    "facing=south,half=top,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_1_55"
+    },
+    "facing=south,half=top,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_1_56"
+    },
+    "facing=south,half=top,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_1_57"
+    },
+    "facing=south,half=top,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_1_58"
+    },
+    "facing=south,half=top,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_1_59"
+    },
+    "facing=south,half=top,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_1_60"
+    },
+    "facing=south,half=top,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_1_61"
+    },
+    "facing=south,half=top,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_1_62"
+    },
+    "facing=south,half=top,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_1_63"
+    },
+    "facing=south,half=top,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_2_0"
+    },
+    "facing=south,half=top,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_2_1"
+    },
+    "facing=south,half=top,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_2_2"
+    },
+    "facing=south,half=top,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_2_3"
+    },
+    "facing=south,half=top,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_2_4"
+    },
+    "facing=south,half=top,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_2_5"
+    },
+    "facing=south,half=top,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_2_6"
+    },
+    "facing=south,half=top,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_2_7"
+    },
+    "facing=south,half=top,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_2_8"
+    },
+    "facing=south,half=top,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_2_9"
+    },
+    "facing=south,half=top,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_2_10"
+    },
+    "facing=south,half=top,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_2_11"
+    },
+    "facing=south,half=top,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_2_12"
+    },
+    "facing=south,half=top,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_2_13"
+    },
+    "facing=south,half=top,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_2_14"
+    },
+    "facing=south,half=top,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_2_15"
+    },
+    "facing=south,half=top,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_2_16"
+    },
+    "facing=south,half=top,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_2_17"
+    },
+    "facing=south,half=top,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_2_18"
+    },
+    "facing=south,half=top,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_2_19"
+    },
+    "facing=south,half=top,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_2_20"
+    },
+    "facing=south,half=top,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_2_21"
+    },
+    "facing=south,half=top,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_2_22"
+    },
+    "facing=south,half=top,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_2_23"
+    },
+    "facing=south,half=top,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_2_24"
+    },
+    "facing=south,half=top,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_2_25"
+    },
+    "facing=south,half=top,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_2_26"
+    },
+    "facing=south,half=top,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_2_27"
+    },
+    "facing=south,half=top,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_2_28"
+    },
+    "facing=south,half=top,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_2_29"
+    },
+    "facing=south,half=top,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_2_30"
+    },
+    "facing=south,half=top,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_2_31"
+    },
+    "facing=south,half=top,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_2_32"
+    },
+    "facing=south,half=top,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_2_33"
+    },
+    "facing=south,half=top,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_2_34"
+    },
+    "facing=south,half=top,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_2_35"
+    },
+    "facing=south,half=top,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_2_36"
+    },
+    "facing=south,half=top,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_2_37"
+    },
+    "facing=south,half=top,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_2_38"
+    },
+    "facing=south,half=top,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_2_39"
+    },
+    "facing=south,half=top,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_2_40"
+    },
+    "facing=south,half=top,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_2_41"
+    },
+    "facing=south,half=top,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_2_42"
+    },
+    "facing=south,half=top,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_2_43"
+    },
+    "facing=south,half=top,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_2_44"
+    },
+    "facing=south,half=top,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_2_45"
+    },
+    "facing=south,half=top,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_2_46"
+    },
+    "facing=south,half=top,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_2_47"
+    },
+    "facing=south,half=top,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_2_48"
+    },
+    "facing=south,half=top,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_2_49"
+    },
+    "facing=south,half=top,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_2_50"
+    },
+    "facing=south,half=top,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_2_51"
+    },
+    "facing=south,half=top,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_2_52"
+    },
+    "facing=south,half=top,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_2_53"
+    },
+    "facing=south,half=top,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_2_54"
+    },
+    "facing=south,half=top,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_2_55"
+    },
+    "facing=south,half=top,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_2_56"
+    },
+    "facing=south,half=top,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_2_57"
+    },
+    "facing=south,half=top,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_2_58"
+    },
+    "facing=south,half=top,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_2_59"
+    },
+    "facing=south,half=top,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_2_60"
+    },
+    "facing=south,half=top,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_2_61"
+    },
+    "facing=south,half=top,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_2_62"
+    },
+    "facing=south,half=top,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_2_63"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_0_0"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_0_1"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_0_2"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_0_3"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_0_4"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_0_5"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_0_6"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_0_7"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_0_8"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_0_9"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_0_10"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_0_11"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_0_12"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_0_13"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_0_14"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_0_15"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_0_16"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_0_17"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_0_18"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_0_19"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_0_20"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_0_21"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_0_22"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_0_23"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_0_24"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_0_25"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_0_26"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_0_27"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_0_28"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_0_29"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_0_30"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_0_31"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_0_32"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_0_33"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_0_34"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_0_35"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_0_36"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_0_37"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_0_38"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_0_39"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_0_40"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_0_41"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_0_42"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_0_43"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_0_44"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_0_45"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_0_46"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_0_47"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_0_48"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_0_49"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_0_50"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_0_51"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_0_52"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_0_53"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_0_54"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_0_55"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_0_56"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_0_57"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_0_58"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_0_59"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_0_60"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_0_61"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_0_62"
+    },
+    "facing=south,half=bottom,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_0_63"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_2_0"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_2_1"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_2_2"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_2_3"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_2_4"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_2_5"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_2_6"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_2_7"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_2_8"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_2_9"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_2_10"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_2_11"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_2_12"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_2_13"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_2_14"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_2_15"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_2_16"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_2_17"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_2_18"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_2_19"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_2_20"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_2_21"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_2_22"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_2_23"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_2_24"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_2_25"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_2_26"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_2_27"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_2_28"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_2_29"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_2_30"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_2_31"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_2_32"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_2_33"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_2_34"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_2_35"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_2_36"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_2_37"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_2_38"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_2_39"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_2_40"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_2_41"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_2_42"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_2_43"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_2_44"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_2_45"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_2_46"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_2_47"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_2_48"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_2_49"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_2_50"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_2_51"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_2_52"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_2_53"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_2_54"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_2_55"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_2_56"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_2_57"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_2_58"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_2_59"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_2_60"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_2_61"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_2_62"
+    },
+    "facing=south,half=bottom,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_2_63"
+    },
+    "facing=west,half=top,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_1_0"
+    },
+    "facing=west,half=top,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_1_1"
+    },
+    "facing=west,half=top,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_1_2"
+    },
+    "facing=west,half=top,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_1_3"
+    },
+    "facing=west,half=top,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_1_4"
+    },
+    "facing=west,half=top,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_1_5"
+    },
+    "facing=west,half=top,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_1_6"
+    },
+    "facing=west,half=top,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_1_7"
+    },
+    "facing=west,half=top,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_1_8"
+    },
+    "facing=west,half=top,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_1_9"
+    },
+    "facing=west,half=top,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_1_10"
+    },
+    "facing=west,half=top,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_1_11"
+    },
+    "facing=west,half=top,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_1_12"
+    },
+    "facing=west,half=top,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_1_13"
+    },
+    "facing=west,half=top,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_1_14"
+    },
+    "facing=west,half=top,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_1_15"
+    },
+    "facing=west,half=top,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_1_16"
+    },
+    "facing=west,half=top,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_1_17"
+    },
+    "facing=west,half=top,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_1_18"
+    },
+    "facing=west,half=top,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_1_19"
+    },
+    "facing=west,half=top,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_1_20"
+    },
+    "facing=west,half=top,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_1_21"
+    },
+    "facing=west,half=top,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_1_22"
+    },
+    "facing=west,half=top,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_1_23"
+    },
+    "facing=west,half=top,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_1_24"
+    },
+    "facing=west,half=top,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_1_25"
+    },
+    "facing=west,half=top,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_1_26"
+    },
+    "facing=west,half=top,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_1_27"
+    },
+    "facing=west,half=top,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_1_28"
+    },
+    "facing=west,half=top,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_1_29"
+    },
+    "facing=west,half=top,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_1_30"
+    },
+    "facing=west,half=top,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_1_31"
+    },
+    "facing=west,half=top,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_1_32"
+    },
+    "facing=west,half=top,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_1_33"
+    },
+    "facing=west,half=top,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_1_34"
+    },
+    "facing=west,half=top,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_1_35"
+    },
+    "facing=west,half=top,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_1_36"
+    },
+    "facing=west,half=top,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_1_37"
+    },
+    "facing=west,half=top,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_1_38"
+    },
+    "facing=west,half=top,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_1_39"
+    },
+    "facing=west,half=top,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_1_40"
+    },
+    "facing=west,half=top,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_1_41"
+    },
+    "facing=west,half=top,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_1_42"
+    },
+    "facing=west,half=top,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_1_43"
+    },
+    "facing=west,half=top,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_1_44"
+    },
+    "facing=west,half=top,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_1_45"
+    },
+    "facing=west,half=top,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_1_46"
+    },
+    "facing=west,half=top,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_1_47"
+    },
+    "facing=west,half=top,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_1_48"
+    },
+    "facing=west,half=top,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_1_49"
+    },
+    "facing=west,half=top,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_1_50"
+    },
+    "facing=west,half=top,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_1_51"
+    },
+    "facing=west,half=top,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_1_52"
+    },
+    "facing=west,half=top,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_1_53"
+    },
+    "facing=west,half=top,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_1_54"
+    },
+    "facing=west,half=top,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_1_55"
+    },
+    "facing=west,half=top,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_1_56"
+    },
+    "facing=west,half=top,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_1_57"
+    },
+    "facing=west,half=top,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_1_58"
+    },
+    "facing=west,half=top,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_1_59"
+    },
+    "facing=west,half=top,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_1_60"
+    },
+    "facing=west,half=top,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_1_61"
+    },
+    "facing=west,half=top,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_1_62"
+    },
+    "facing=west,half=top,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_1_63"
+    },
+    "facing=west,half=top,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_5_0"
+    },
+    "facing=west,half=top,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_5_1"
+    },
+    "facing=west,half=top,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_5_2"
+    },
+    "facing=west,half=top,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_5_3"
+    },
+    "facing=west,half=top,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_5_4"
+    },
+    "facing=west,half=top,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_5_5"
+    },
+    "facing=west,half=top,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_5_6"
+    },
+    "facing=west,half=top,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_5_7"
+    },
+    "facing=west,half=top,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_5_8"
+    },
+    "facing=west,half=top,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_5_9"
+    },
+    "facing=west,half=top,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_5_10"
+    },
+    "facing=west,half=top,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_5_11"
+    },
+    "facing=west,half=top,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_5_12"
+    },
+    "facing=west,half=top,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_5_13"
+    },
+    "facing=west,half=top,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_5_14"
+    },
+    "facing=west,half=top,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_5_15"
+    },
+    "facing=west,half=top,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_5_16"
+    },
+    "facing=west,half=top,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_5_17"
+    },
+    "facing=west,half=top,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_5_18"
+    },
+    "facing=west,half=top,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_5_19"
+    },
+    "facing=west,half=top,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_5_20"
+    },
+    "facing=west,half=top,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_5_21"
+    },
+    "facing=west,half=top,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_5_22"
+    },
+    "facing=west,half=top,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_5_23"
+    },
+    "facing=west,half=top,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_5_24"
+    },
+    "facing=west,half=top,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_5_25"
+    },
+    "facing=west,half=top,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_5_26"
+    },
+    "facing=west,half=top,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_5_27"
+    },
+    "facing=west,half=top,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_5_28"
+    },
+    "facing=west,half=top,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_5_29"
+    },
+    "facing=west,half=top,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_5_30"
+    },
+    "facing=west,half=top,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_5_31"
+    },
+    "facing=west,half=top,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_5_32"
+    },
+    "facing=west,half=top,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_5_33"
+    },
+    "facing=west,half=top,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_5_34"
+    },
+    "facing=west,half=top,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_5_35"
+    },
+    "facing=west,half=top,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_5_36"
+    },
+    "facing=west,half=top,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_5_37"
+    },
+    "facing=west,half=top,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_5_38"
+    },
+    "facing=west,half=top,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_5_39"
+    },
+    "facing=west,half=top,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_5_40"
+    },
+    "facing=west,half=top,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_5_41"
+    },
+    "facing=west,half=top,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_5_42"
+    },
+    "facing=west,half=top,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_5_43"
+    },
+    "facing=west,half=top,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_5_44"
+    },
+    "facing=west,half=top,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_5_45"
+    },
+    "facing=west,half=top,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_5_46"
+    },
+    "facing=west,half=top,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_5_47"
+    },
+    "facing=west,half=top,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_5_48"
+    },
+    "facing=west,half=top,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_5_49"
+    },
+    "facing=west,half=top,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_5_50"
+    },
+    "facing=west,half=top,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_5_51"
+    },
+    "facing=west,half=top,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_5_52"
+    },
+    "facing=west,half=top,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_5_53"
+    },
+    "facing=west,half=top,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_5_54"
+    },
+    "facing=west,half=top,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_5_55"
+    },
+    "facing=west,half=top,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_5_56"
+    },
+    "facing=west,half=top,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_5_57"
+    },
+    "facing=west,half=top,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_5_58"
+    },
+    "facing=west,half=top,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_5_59"
+    },
+    "facing=west,half=top,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_5_60"
+    },
+    "facing=west,half=top,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_5_61"
+    },
+    "facing=west,half=top,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_5_62"
+    },
+    "facing=west,half=top,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_5_63"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_0_0"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_0_1"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_0_2"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_0_3"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_0_4"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_0_5"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_0_6"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_0_7"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_0_8"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_0_9"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_0_10"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_0_11"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_0_12"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_0_13"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_0_14"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_0_15"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_0_16"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_0_17"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_0_18"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_0_19"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_0_20"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_0_21"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_0_22"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_0_23"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_0_24"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_0_25"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_0_26"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_0_27"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_0_28"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_0_29"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_0_30"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_0_31"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_0_32"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_0_33"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_0_34"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_0_35"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_0_36"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_0_37"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_0_38"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_0_39"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_0_40"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_0_41"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_0_42"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_0_43"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_0_44"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_0_45"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_0_46"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_0_47"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_0_48"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_0_49"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_0_50"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_0_51"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_0_52"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_0_53"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_0_54"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_0_55"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_0_56"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_0_57"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_0_58"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_0_59"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_0_60"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_0_61"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_0_62"
+    },
+    "facing=west,half=bottom,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_0_63"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_5_0"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_5_1"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_5_2"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_5_3"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_5_4"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_5_5"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_5_6"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_5_7"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_5_8"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_5_9"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_5_10"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_5_11"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_5_12"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_5_13"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_5_14"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_5_15"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_5_16"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_5_17"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_5_18"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_5_19"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_5_20"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_5_21"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_5_22"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_5_23"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_5_24"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_5_25"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_5_26"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_5_27"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_5_28"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_5_29"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_5_30"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_5_31"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_5_32"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_5_33"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_5_34"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_5_35"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_5_36"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_5_37"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_5_38"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_5_39"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_5_40"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_5_41"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_5_42"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_5_43"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_5_44"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_5_45"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_5_46"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_5_47"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_5_48"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_5_49"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_5_50"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_5_51"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_5_52"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_5_53"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_5_54"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_5_55"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_5_56"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_5_57"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_5_58"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_5_59"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_5_60"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_5_61"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_5_62"
+    },
+    "facing=west,half=bottom,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_5_63"
+    },
+    "facing=east,half=top,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_1_0"
+    },
+    "facing=east,half=top,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_1_1"
+    },
+    "facing=east,half=top,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_1_2"
+    },
+    "facing=east,half=top,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_1_3"
+    },
+    "facing=east,half=top,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_1_4"
+    },
+    "facing=east,half=top,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_1_5"
+    },
+    "facing=east,half=top,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_1_6"
+    },
+    "facing=east,half=top,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_1_7"
+    },
+    "facing=east,half=top,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_1_8"
+    },
+    "facing=east,half=top,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_1_9"
+    },
+    "facing=east,half=top,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_1_10"
+    },
+    "facing=east,half=top,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_1_11"
+    },
+    "facing=east,half=top,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_1_12"
+    },
+    "facing=east,half=top,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_1_13"
+    },
+    "facing=east,half=top,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_1_14"
+    },
+    "facing=east,half=top,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_1_15"
+    },
+    "facing=east,half=top,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_1_16"
+    },
+    "facing=east,half=top,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_1_17"
+    },
+    "facing=east,half=top,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_1_18"
+    },
+    "facing=east,half=top,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_1_19"
+    },
+    "facing=east,half=top,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_1_20"
+    },
+    "facing=east,half=top,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_1_21"
+    },
+    "facing=east,half=top,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_1_22"
+    },
+    "facing=east,half=top,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_1_23"
+    },
+    "facing=east,half=top,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_1_24"
+    },
+    "facing=east,half=top,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_1_25"
+    },
+    "facing=east,half=top,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_1_26"
+    },
+    "facing=east,half=top,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_1_27"
+    },
+    "facing=east,half=top,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_1_28"
+    },
+    "facing=east,half=top,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_1_29"
+    },
+    "facing=east,half=top,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_1_30"
+    },
+    "facing=east,half=top,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_1_31"
+    },
+    "facing=east,half=top,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_1_32"
+    },
+    "facing=east,half=top,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_1_33"
+    },
+    "facing=east,half=top,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_1_34"
+    },
+    "facing=east,half=top,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_1_35"
+    },
+    "facing=east,half=top,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_1_36"
+    },
+    "facing=east,half=top,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_1_37"
+    },
+    "facing=east,half=top,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_1_38"
+    },
+    "facing=east,half=top,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_1_39"
+    },
+    "facing=east,half=top,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_1_40"
+    },
+    "facing=east,half=top,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_1_41"
+    },
+    "facing=east,half=top,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_1_42"
+    },
+    "facing=east,half=top,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_1_43"
+    },
+    "facing=east,half=top,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_1_44"
+    },
+    "facing=east,half=top,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_1_45"
+    },
+    "facing=east,half=top,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_1_46"
+    },
+    "facing=east,half=top,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_1_47"
+    },
+    "facing=east,half=top,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_1_48"
+    },
+    "facing=east,half=top,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_1_49"
+    },
+    "facing=east,half=top,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_1_50"
+    },
+    "facing=east,half=top,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_1_51"
+    },
+    "facing=east,half=top,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_1_52"
+    },
+    "facing=east,half=top,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_1_53"
+    },
+    "facing=east,half=top,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_1_54"
+    },
+    "facing=east,half=top,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_1_55"
+    },
+    "facing=east,half=top,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_1_56"
+    },
+    "facing=east,half=top,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_1_57"
+    },
+    "facing=east,half=top,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_1_58"
+    },
+    "facing=east,half=top,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_1_59"
+    },
+    "facing=east,half=top,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_1_60"
+    },
+    "facing=east,half=top,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_1_61"
+    },
+    "facing=east,half=top,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_1_62"
+    },
+    "facing=east,half=top,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_1_63"
+    },
+    "facing=east,half=top,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_4_0"
+    },
+    "facing=east,half=top,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_4_1"
+    },
+    "facing=east,half=top,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_4_2"
+    },
+    "facing=east,half=top,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_4_3"
+    },
+    "facing=east,half=top,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_4_4"
+    },
+    "facing=east,half=top,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_4_5"
+    },
+    "facing=east,half=top,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_4_6"
+    },
+    "facing=east,half=top,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_4_7"
+    },
+    "facing=east,half=top,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_4_8"
+    },
+    "facing=east,half=top,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_4_9"
+    },
+    "facing=east,half=top,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_4_10"
+    },
+    "facing=east,half=top,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_4_11"
+    },
+    "facing=east,half=top,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_4_12"
+    },
+    "facing=east,half=top,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_4_13"
+    },
+    "facing=east,half=top,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_4_14"
+    },
+    "facing=east,half=top,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_4_15"
+    },
+    "facing=east,half=top,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_4_16"
+    },
+    "facing=east,half=top,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_4_17"
+    },
+    "facing=east,half=top,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_4_18"
+    },
+    "facing=east,half=top,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_4_19"
+    },
+    "facing=east,half=top,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_4_20"
+    },
+    "facing=east,half=top,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_4_21"
+    },
+    "facing=east,half=top,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_4_22"
+    },
+    "facing=east,half=top,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_4_23"
+    },
+    "facing=east,half=top,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_4_24"
+    },
+    "facing=east,half=top,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_4_25"
+    },
+    "facing=east,half=top,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_4_26"
+    },
+    "facing=east,half=top,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_4_27"
+    },
+    "facing=east,half=top,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_4_28"
+    },
+    "facing=east,half=top,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_4_29"
+    },
+    "facing=east,half=top,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_4_30"
+    },
+    "facing=east,half=top,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_4_31"
+    },
+    "facing=east,half=top,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_4_32"
+    },
+    "facing=east,half=top,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_4_33"
+    },
+    "facing=east,half=top,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_4_34"
+    },
+    "facing=east,half=top,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_4_35"
+    },
+    "facing=east,half=top,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_4_36"
+    },
+    "facing=east,half=top,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_4_37"
+    },
+    "facing=east,half=top,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_4_38"
+    },
+    "facing=east,half=top,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_4_39"
+    },
+    "facing=east,half=top,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_4_40"
+    },
+    "facing=east,half=top,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_4_41"
+    },
+    "facing=east,half=top,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_4_42"
+    },
+    "facing=east,half=top,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_4_43"
+    },
+    "facing=east,half=top,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_4_44"
+    },
+    "facing=east,half=top,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_4_45"
+    },
+    "facing=east,half=top,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_4_46"
+    },
+    "facing=east,half=top,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_4_47"
+    },
+    "facing=east,half=top,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_4_48"
+    },
+    "facing=east,half=top,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_4_49"
+    },
+    "facing=east,half=top,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_4_50"
+    },
+    "facing=east,half=top,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_4_51"
+    },
+    "facing=east,half=top,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_4_52"
+    },
+    "facing=east,half=top,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_4_53"
+    },
+    "facing=east,half=top,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_4_54"
+    },
+    "facing=east,half=top,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_4_55"
+    },
+    "facing=east,half=top,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_4_56"
+    },
+    "facing=east,half=top,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_4_57"
+    },
+    "facing=east,half=top,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_4_58"
+    },
+    "facing=east,half=top,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_4_59"
+    },
+    "facing=east,half=top,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_4_60"
+    },
+    "facing=east,half=top,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_4_61"
+    },
+    "facing=east,half=top,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_4_62"
+    },
+    "facing=east,half=top,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_4_63"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=0": {
+      "model": "omni_display:block/hatch_0_0"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=1": {
+      "model": "omni_display:block/hatch_0_1"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=2": {
+      "model": "omni_display:block/hatch_0_2"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=3": {
+      "model": "omni_display:block/hatch_0_3"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=4": {
+      "model": "omni_display:block/hatch_0_4"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=5": {
+      "model": "omni_display:block/hatch_0_5"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=6": {
+      "model": "omni_display:block/hatch_0_6"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=7": {
+      "model": "omni_display:block/hatch_0_7"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=8": {
+      "model": "omni_display:block/hatch_0_8"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=9": {
+      "model": "omni_display:block/hatch_0_9"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=10": {
+      "model": "omni_display:block/hatch_0_10"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=11": {
+      "model": "omni_display:block/hatch_0_11"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=12": {
+      "model": "omni_display:block/hatch_0_12"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=13": {
+      "model": "omni_display:block/hatch_0_13"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=14": {
+      "model": "omni_display:block/hatch_0_14"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=15": {
+      "model": "omni_display:block/hatch_0_15"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=16": {
+      "model": "omni_display:block/hatch_0_16"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=17": {
+      "model": "omni_display:block/hatch_0_17"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=18": {
+      "model": "omni_display:block/hatch_0_18"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=19": {
+      "model": "omni_display:block/hatch_0_19"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=20": {
+      "model": "omni_display:block/hatch_0_20"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=21": {
+      "model": "omni_display:block/hatch_0_21"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=22": {
+      "model": "omni_display:block/hatch_0_22"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=23": {
+      "model": "omni_display:block/hatch_0_23"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=24": {
+      "model": "omni_display:block/hatch_0_24"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=25": {
+      "model": "omni_display:block/hatch_0_25"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=26": {
+      "model": "omni_display:block/hatch_0_26"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=27": {
+      "model": "omni_display:block/hatch_0_27"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=28": {
+      "model": "omni_display:block/hatch_0_28"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=29": {
+      "model": "omni_display:block/hatch_0_29"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=30": {
+      "model": "omni_display:block/hatch_0_30"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=31": {
+      "model": "omni_display:block/hatch_0_31"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=32": {
+      "model": "omni_display:block/hatch_0_32"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=33": {
+      "model": "omni_display:block/hatch_0_33"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=34": {
+      "model": "omni_display:block/hatch_0_34"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=35": {
+      "model": "omni_display:block/hatch_0_35"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=36": {
+      "model": "omni_display:block/hatch_0_36"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=37": {
+      "model": "omni_display:block/hatch_0_37"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=38": {
+      "model": "omni_display:block/hatch_0_38"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=39": {
+      "model": "omni_display:block/hatch_0_39"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=40": {
+      "model": "omni_display:block/hatch_0_40"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=41": {
+      "model": "omni_display:block/hatch_0_41"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=42": {
+      "model": "omni_display:block/hatch_0_42"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=43": {
+      "model": "omni_display:block/hatch_0_43"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=44": {
+      "model": "omni_display:block/hatch_0_44"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=45": {
+      "model": "omni_display:block/hatch_0_45"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=46": {
+      "model": "omni_display:block/hatch_0_46"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=47": {
+      "model": "omni_display:block/hatch_0_47"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=48": {
+      "model": "omni_display:block/hatch_0_48"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=49": {
+      "model": "omni_display:block/hatch_0_49"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=50": {
+      "model": "omni_display:block/hatch_0_50"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=51": {
+      "model": "omni_display:block/hatch_0_51"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=52": {
+      "model": "omni_display:block/hatch_0_52"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=53": {
+      "model": "omni_display:block/hatch_0_53"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=54": {
+      "model": "omni_display:block/hatch_0_54"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=55": {
+      "model": "omni_display:block/hatch_0_55"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=56": {
+      "model": "omni_display:block/hatch_0_56"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=57": {
+      "model": "omni_display:block/hatch_0_57"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=58": {
+      "model": "omni_display:block/hatch_0_58"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=59": {
+      "model": "omni_display:block/hatch_0_59"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=60": {
+      "model": "omni_display:block/hatch_0_60"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=61": {
+      "model": "omni_display:block/hatch_0_61"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=62": {
+      "model": "omni_display:block/hatch_0_62"
+    },
+    "facing=east,half=bottom,open=false,screen_faces=63": {
+      "model": "omni_display:block/hatch_0_63"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=0": {
+      "model": "omni_display:block/hatch_4_0"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=1": {
+      "model": "omni_display:block/hatch_4_1"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=2": {
+      "model": "omni_display:block/hatch_4_2"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=3": {
+      "model": "omni_display:block/hatch_4_3"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=4": {
+      "model": "omni_display:block/hatch_4_4"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=5": {
+      "model": "omni_display:block/hatch_4_5"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=6": {
+      "model": "omni_display:block/hatch_4_6"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=7": {
+      "model": "omni_display:block/hatch_4_7"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=8": {
+      "model": "omni_display:block/hatch_4_8"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=9": {
+      "model": "omni_display:block/hatch_4_9"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=10": {
+      "model": "omni_display:block/hatch_4_10"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=11": {
+      "model": "omni_display:block/hatch_4_11"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=12": {
+      "model": "omni_display:block/hatch_4_12"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=13": {
+      "model": "omni_display:block/hatch_4_13"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=14": {
+      "model": "omni_display:block/hatch_4_14"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=15": {
+      "model": "omni_display:block/hatch_4_15"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=16": {
+      "model": "omni_display:block/hatch_4_16"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=17": {
+      "model": "omni_display:block/hatch_4_17"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=18": {
+      "model": "omni_display:block/hatch_4_18"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=19": {
+      "model": "omni_display:block/hatch_4_19"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=20": {
+      "model": "omni_display:block/hatch_4_20"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=21": {
+      "model": "omni_display:block/hatch_4_21"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=22": {
+      "model": "omni_display:block/hatch_4_22"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=23": {
+      "model": "omni_display:block/hatch_4_23"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=24": {
+      "model": "omni_display:block/hatch_4_24"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=25": {
+      "model": "omni_display:block/hatch_4_25"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=26": {
+      "model": "omni_display:block/hatch_4_26"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=27": {
+      "model": "omni_display:block/hatch_4_27"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=28": {
+      "model": "omni_display:block/hatch_4_28"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=29": {
+      "model": "omni_display:block/hatch_4_29"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=30": {
+      "model": "omni_display:block/hatch_4_30"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=31": {
+      "model": "omni_display:block/hatch_4_31"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=32": {
+      "model": "omni_display:block/hatch_4_32"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=33": {
+      "model": "omni_display:block/hatch_4_33"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=34": {
+      "model": "omni_display:block/hatch_4_34"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=35": {
+      "model": "omni_display:block/hatch_4_35"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=36": {
+      "model": "omni_display:block/hatch_4_36"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=37": {
+      "model": "omni_display:block/hatch_4_37"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=38": {
+      "model": "omni_display:block/hatch_4_38"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=39": {
+      "model": "omni_display:block/hatch_4_39"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=40": {
+      "model": "omni_display:block/hatch_4_40"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=41": {
+      "model": "omni_display:block/hatch_4_41"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=42": {
+      "model": "omni_display:block/hatch_4_42"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=43": {
+      "model": "omni_display:block/hatch_4_43"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=44": {
+      "model": "omni_display:block/hatch_4_44"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=45": {
+      "model": "omni_display:block/hatch_4_45"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=46": {
+      "model": "omni_display:block/hatch_4_46"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=47": {
+      "model": "omni_display:block/hatch_4_47"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=48": {
+      "model": "omni_display:block/hatch_4_48"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=49": {
+      "model": "omni_display:block/hatch_4_49"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=50": {
+      "model": "omni_display:block/hatch_4_50"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=51": {
+      "model": "omni_display:block/hatch_4_51"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=52": {
+      "model": "omni_display:block/hatch_4_52"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=53": {
+      "model": "omni_display:block/hatch_4_53"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=54": {
+      "model": "omni_display:block/hatch_4_54"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=55": {
+      "model": "omni_display:block/hatch_4_55"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=56": {
+      "model": "omni_display:block/hatch_4_56"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=57": {
+      "model": "omni_display:block/hatch_4_57"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=58": {
+      "model": "omni_display:block/hatch_4_58"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=59": {
+      "model": "omni_display:block/hatch_4_59"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=60": {
+      "model": "omni_display:block/hatch_4_60"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=61": {
+      "model": "omni_display:block/hatch_4_61"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=62": {
+      "model": "omni_display:block/hatch_4_62"
+    },
+    "facing=east,half=bottom,open=true,screen_faces=63": {
+      "model": "omni_display:block/hatch_4_63"
+    }
+  }
+}
